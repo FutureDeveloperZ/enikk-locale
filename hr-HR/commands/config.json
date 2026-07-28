@@ -1,0 +1,57 @@
+{
+  "title": "Server Configuration",
+  "description": "Manage server settings for Enikk.",
+  "updated": "Setting updated successfully.",
+  "ai": {
+    "title": "AI Configuration",
+    "description": "Configure AI features for this server.",
+    "toggle": "Global Toggle",
+    "toggleDescription": "Enable or disable AI responses",
+    "status": "Status",
+    "mentionMode": "Mention Mode",
+    "mentionModeDescription": "Toggle whether AI responds to mentions",
+    "autoChannels": "Auto Channels",
+    "autoChannelsDescription": "Channels where AI responds automatically",
+    "bannedUsers": "Banned Users",
+    "bannedUsersDescription": "Users blocked from using AI",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "count": "{{count}} channel(s)",
+    "bannedCount": "{{count}} user(s)"
+  },
+  "music": {
+    "title": "Music Configuration",
+    "description": "Configure music settings for this server.",
+    "queueLock": "Queue Lock",
+    "queueLockDescription": "Prevent others from adding songs",
+    "maxVolume": "Max Volume",
+    "maxVolumeDescription": "Maximum allowed volume (0-10)",
+    "blacklistedSongs": "Blacklisted Songs",
+    "blacklistedSongsDescription": "Songs blocked from playing",
+    "locked": "Locked",
+    "unlocked": "Unlocked",
+    "count": "{{count}} song(s)"
+  },
+  "blablalink": {
+    "title": "BlaBlaLink",
+    "description": "Toggle automatic BlaBlaLink post embeds",
+    "enabled": "BlaBlaLink embeds are now enabled.",
+    "disabled": "BlaBlaLink embeds are now disabled."
+  },
+  "prefix": {
+    "title": "Prefix",
+    "description": "Change the bot's command prefix",
+    "current": "Current prefix: `{{prefix}}`",
+    "modalTitle": "Change Prefix",
+    "modalLabel": "New prefix",
+    "modalPlaceholder": "Enter a new prefix",
+    "updated": "Prefix updated to `{{prefix}}`."
+  },
+  "language": {
+    "title": "Language",
+    "description": "Set the server's language",
+    "current": "Current language: **{{language}}**",
+    "updated": "Server language set to **{{language}}**.",
+    "selectPlaceholder": "Select a language"
+  }
+}
