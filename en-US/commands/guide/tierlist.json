@@ -1,4 +1,6 @@
 {
+	"name": "tierlist",
+	"description": "Show the Prydwen tier list for all NIKKE characters",
 	"noMatch": "No characters match the current filters.",
 	"loading": "Loading tier list...",
 	"description": "{{mode}} Tier List — {{burst}}",

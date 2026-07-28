@@ -1,4 +1,6 @@
 {
+	"name": "advise",
+	"description": "View advise scenarios for a Nikke",
 	"askNikke": "Which Nikke's advise scenarios would you like to view?",
 	"notFound": "No advise scenarios found for \"{{nikke}}\".",
 	"title": "{{nikke}} — Advise Scenarios",

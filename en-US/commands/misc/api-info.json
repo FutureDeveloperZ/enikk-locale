@@ -1,4 +1,6 @@
 {
+  "name": "api-info",
+  "description": "Show information about the APIs used by the bot",
   "title": "Powered by",
   "description": "Enikk connects to several external services to provide its features.",
   "discordApi": "Discord API",

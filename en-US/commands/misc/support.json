@@ -1,4 +1,6 @@
 {
+  "name": "support",
+  "description": "Get an invite to the support server",
   "title": "Support Server",
   "description": "Need help? Have a suggestion? Join the support server!",
   "button": "Join Support Server"
