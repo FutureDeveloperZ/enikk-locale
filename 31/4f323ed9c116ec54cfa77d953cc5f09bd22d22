@@ -1,0 +1,19 @@
+crowdin.yml
+  s_78459d1bfcd714::t_67a61c84424a4a 6-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "314f323ed9c116ec54cfa77d953cc5f09bd22d22",
+  "prompts": {},
+  "sessions": {
+    "s_78459d1bfcd714": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0571029f8ffeRJ06d0J376xOcV",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
