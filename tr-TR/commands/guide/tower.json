@@ -1,4 +1,6 @@
 {
+	"name": "tower",
+	"description": "Look up a tower stage",
 	"useSlashCommand": "This command can only be used as a slash command.",
 	"noData": "No tower data found for **{{manufacturer}}**.",
 	"floorRange": "**{{manufacturer}}** tower only has {{max}} floors. Please pick a stage between 1 and {{max}}.",
