@@ -1,7 +1,8 @@
 {
+	"name": "advise",
+	"description": "Showing all {{count}} scenarios",
 	"askNikke": "Which Nikke's advise scenarios would you like to view?",
 	"notFound": "No advise scenarios found for \"{{nikke}}\".",
 	"title": "{{nikke}} — Advise Scenarios",
-	"description": "Showing all {{count}} scenarios",
 	"fetchError": "Failed to fetch advise data."
 }
