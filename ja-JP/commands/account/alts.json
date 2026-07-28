@@ -1,6 +1,6 @@
 {
-	"prefixOnly": "This command must be used as a slash command.",
-	"noAccount": "You don't have a BlaBlaLink account linked yet. Use `/blabla-link` first.",
+	"prefixOnly": "このコマンドはスラッシュコマンドとして使用する必要があります。",
+	"noAccount": "BlaBlaLinkアカウントがまだリンクされていません。最初に`/blabla-link`を使用してください。",
 	"primaryLabel": "**Primary:** {{id}}{{marker}}",
 	"altLabel": "**{{label}}:** {{id}}{{cookie}}{{marker}}",
 	"altSlots": "\nAlt slots: **{{used}}/{{max}}** ({{tier}} tier)",
