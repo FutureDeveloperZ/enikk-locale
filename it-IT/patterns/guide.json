@@ -1,0 +1,4 @@
+{
+  "noQuery": "Which character would you like to look up?",
+  "notFound": "Couldn't find any character matching **{{query}}**."
+}
