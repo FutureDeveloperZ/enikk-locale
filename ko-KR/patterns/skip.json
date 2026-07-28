@@ -1,0 +1,6 @@
+{
+  "voiceChannel": "You need to be in a voice channel to skip.",
+  "notDj": "Only the current DJ can skip tracks.",
+  "skipped": "Skipped the current track.",
+  "nothing": "Nothing to skip."
+}
