@@ -1,0 +1,10 @@
+{
+  "project_id": "enikk",
+  "preserve_hierarchy": true,
+  "files": [
+    {
+      "source": "/locales/en-US/**/*.json",
+      "translation": "/locales/%locale%/**/%original_file_name%"
+    }
+  ]
+}
