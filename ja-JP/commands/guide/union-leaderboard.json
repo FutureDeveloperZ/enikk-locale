@@ -1,4 +1,6 @@
 {
+	"name": "union-leaderboard",
+	"description": "View the union raid competitive leaderboard",
 	"useSlashCommand": "Use /union-leaderboard to view the leaderboard.",
 	"noDataAvailable": "No union raid data available.",
 	"fetchError": "Could not fetch union raid data: {{msg}}",
