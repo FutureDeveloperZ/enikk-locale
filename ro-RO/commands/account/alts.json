@@ -1,4 +1,6 @@
 {
+	"name": "blabla-alts",
+	"description": "Manage your alternate BlaBlaLink accounts",
 	"prefixOnly": "This command must be used as a slash command.",
 	"noAccount": "You don't have a BlaBlaLink account linked yet. Use `/blabla-link` first.",
 	"primaryLabel": "**Primary:** {{id}}{{marker}}",
