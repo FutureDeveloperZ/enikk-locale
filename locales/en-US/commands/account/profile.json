@@ -1,0 +1,12 @@
+{
+  "title": "Profile",
+  "description": "View your Nikke profile.",
+  "noAccount": "You don't have a linked account. Use `/account link` to link your account.",
+  "level": "Level",
+  "power": "Power",
+  "progress": "Progress",
+  "synced": "Profile synced successfully.",
+  "stats": "Stats",
+  "nikkes": "Nikkes",
+  "outpost": "Outpost"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Help",
+  "description": "List all available commands and their descriptions.",
+  "categories": {
+    "account": "Account",
+    "admin": "Admin",
+    "fun": "Fun",
+    "guide": "Guide",
+    "misc": "Misc",
+    "music": "Music"
+  },
+  "noDescription": "No description available.",
+  "usage": "Usage",
+  "aliases": "Aliases",
+  "commands": "Commands",
+  "commandDetail": "Command Details",
+  "selectCategory": "Select a category",
+  "footer": "Use `/help <command>` for details on a specific command."
+}
