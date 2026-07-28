@@ -1,6 +1,7 @@
 {
+  "name": "config",
+  "description": "Configure server settings",
   "title": "Server Configuration",
-  "description": "Manage server settings for Enikk.",
   "updated": "Setting updated successfully.",
   "ai": {
     "title": "AI Configuration",
