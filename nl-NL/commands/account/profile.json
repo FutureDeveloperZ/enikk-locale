@@ -1,0 +1,31 @@
+{
+	"prefixOnly": "Use /blabla-profile to look up a BlaBlaLink profile.",
+	"invalidUserId": "Invalid user ID. Please enter the numeric ID from your BlaBlaLink profile.",
+	"notFound": "Could not find a BlaBlaLink profile with that ID.",
+	"noAccount": "You don't have a BlaBlaLink account linked. Use **/blabla-link** to link one, or provide a **user_id** or **user** option.",
+	"noTargetAccount": "doesn't have a BlaBlaLink account linked.",
+	"invalidSearch": "Please provide a valid search query.",
+	"searchNotFound": "Couldn't find any users matching **{{query}}**.",
+	"searchNoProfile": "Found **{{username}}** but they don't have a game profile.",
+	"sessionExpiring": "Your BlaBlaLink session expires in {{days}} day(s). Re-link with /blabla-link to avoid interruption.",
+	"fields": {
+		"blablalink": "BlaBlaLink",
+		"inGame": "🎮 In-Game",
+		"basicInfo": "Basic Info",
+		"outpostInfo": "Outpost Info",
+		"lostRelics": "Lost Relics",
+		"dailyProgress": "Daily Progress",
+		"guild": "🏆 Guild",
+		"noGameAccount": "⚠️ No Game Account",
+		"limitedView": "🔒 Limited View",
+		"sessionExpired": "⚠️ Session Expired"
+	},
+	"labels": {
+		"outpostPrivate": "User has set their Outpost data to private.",
+		"lostRelicsPrivate": "User has set their Lost Relics to private.",
+		"dailyProgressPrivate": "User has set their Daily Progress to private.",
+		"limitedViewDesc": "This user doesn't have a linked account. In-game stats require linking with `/blabla-link`.",
+		"sessionExpiredDesc": "Your BlaBlaLink session has expired. Use `/blabla-link` to re-link your account and restore in-game data.",
+		"viewOnBlablaLink": "View on BlaBlaLink"
+	}
+}
