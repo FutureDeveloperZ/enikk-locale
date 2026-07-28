@@ -1,4 +1,5 @@
 {
+	"name": "playlist",
 	"description": "Manage your music playlists",
 	"sessionExpired": "Session expired. Please try again.",
 	"create": {
