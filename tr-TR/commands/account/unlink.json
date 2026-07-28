@@ -1,0 +1,12 @@
+{
+	"prefixOnly": "Use /blabla-unlink to unlink your BlaBlaLink account.",
+	"noLink": "Your Discord account is not linked to any BlaBlaLink account.",
+	"confirmTitle": "⚠️ Unlink Account",
+	"confirmDesc": "This will permanently unlink **{{id}}** from your Discord account.\n\nAll account data (playlists, settings) will be cleared. This cannot be undone.",
+	"cancelled": "Unlink cancelled.",
+	"unlinked": "✅ Unlinked from **{{id}}**. All linked data has been removed.",
+	"labels": {
+		"confirm": "Yes, Unlink",
+		"cancel": "Cancel"
+	}
+}
