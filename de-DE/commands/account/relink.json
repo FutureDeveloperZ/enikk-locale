@@ -1,0 +1,14 @@
+{
+	"prefixOnly": "Use /blabla-relink to relink your BlaBlaLink account.",
+	"noLink": "No existing link found. Use /blabla-link first.",
+	"confirmClear": "⚠️ This will clear your current link with **{{id}}** and start the linking process from scratch. Continue?",
+	"cancelled": "Relink cancelled.",
+	"selectRegionTitle": "Select Region",
+	"selectRegionDesc": "Choose your BlaBlaLink server region to get started.\n\n**🌍 Global** — JP / KR / NA / SEA / Global\n**🌏 HK/MC/TW** — Hong Kong / Macau / Taiwan",
+	"labels": {
+		"confirm": "Yes, Relink",
+		"cancel": "Cancel",
+		"global": "Global",
+		"hkMcTw": "HK/MC/TW"
+	}
+}
