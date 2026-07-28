@@ -1,0 +1,13 @@
+{
+  "title": "Settings",
+  "description": "Manage your personal settings.",
+  "language": {
+    "title": "Language",
+    "description": "Set your preferred language for bot responses.",
+    "current": "Your current language: **{{language}}**",
+    "updated": "Language set to **{{language}}**.",
+    "reset": "Language reset to server default.",
+    "selectPlaceholder": "Select your language",
+    "global": "Use server default"
+  }
+}
