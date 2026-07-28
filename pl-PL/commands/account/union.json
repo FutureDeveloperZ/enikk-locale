@@ -1,0 +1,26 @@
+{
+	"prefixOnly": "Use /union to look up guild info.",
+	"noArea": "Could not determine your game server area. Make sure you have a valid BlaBlaLink session.",
+	"noGuild": "You are not in a guild.",
+	"guildRank": "Rank: **{{rank}}**",
+	"ranking": "Ranking #{{num}}",
+	"membersLabel": "{{count}}/{{max}} Members",
+	"fields": {
+		"description": "Description",
+		"guildInfo": "Guild Info",
+		"synchroDistribution": "📊 Synchro Distribution (avg. Level: {{avg}})",
+		"members": "👥 Members ({{count}})"
+	},
+	"infoLines": {
+		"activity": "Activity: **{{value}}**",
+		"locale": "Locale: **{{value}}**",
+		"entryLevel": "Entry Level: **{{value}}**",
+		"joinType": "Join Type: **{{value}}**",
+		"yourRole": "Your Role: **{{value}}**",
+		"raidReq": "Raid Req: **{{value}}**",
+		"activityReq": "Activity Req: **{{value}}**",
+		"avgSynchroRank": "Avg Synchro Rank: **#{{value}}**",
+		"totalSynchro": "Total Synchro: **{{value}}**"
+	},
+	"memberLine": "{{index}}. **{{nickname}}** — Lv.{{level}} · Sync **{{synchro}}**"
+}
