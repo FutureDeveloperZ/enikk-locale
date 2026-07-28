@@ -1,4 +1,6 @@
 {
+	"name": "banners",
+	"description": "View current recruitment and costume banners",
 	"prefixOnly": "This command is only available as a slash command.",
 	"fetchFailed": "Failed to fetch banner data.",
 	"expired": "Banner data expired. Run `/banners` again.",
