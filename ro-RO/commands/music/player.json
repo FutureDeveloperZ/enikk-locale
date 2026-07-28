@@ -1,4 +1,5 @@
 {
+	"name": "player",
 	"description": "Music player controls",
 	"restored": "Restored the now-playing message.",
 	"nothingPlaying": "Nothing is playing right now.",
