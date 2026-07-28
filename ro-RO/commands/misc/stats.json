@@ -1,4 +1,6 @@
 {
+  "name": "stats",
+  "description": "Show bot statistics",
   "title": "Bot Statistics",
   "servers": "Servers",
   "users": "Users",
