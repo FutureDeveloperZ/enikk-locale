@@ -1,0 +1,90 @@
+locales/en-US/commands/ping.json
+  s_78459d1bfcd714::t_8aec04b3a47b5f 1-5
+locales/en-US/handlers/component.json
+  s_78459d1bfcd714::t_2d6cc21932bbf1 1-6
+locales/en-US/commands/config.json
+  s_78459d1bfcd714::t_6cc0608bb14f5b 1-57
+locales/en-US/commands/settings.json
+  s_78459d1bfcd714::t_97c7a6a9b8bbe5 1-13
+locales/en-US/commands/account/banners.json
+  s_78459d1bfcd714::t_37c98fcebad7a1 1
+locales/en-US/common.json
+  s_78459d1bfcd714::t_6d9149fe2e2af3 25-37
+  s_78459d1bfcd714::t_e4f3b438ab564c 1-24
+locales/en-US/handlers/command.json
+  s_78459d1bfcd714::t_bf0a635ad88fbf 1-6
+locales/en-US/commands/account/profile.json
+  s_78459d1bfcd714::t_17d95d67a3596a 1-12
+locales/en-US/handlers/prefixCommand.json
+  s_78459d1bfcd714::t_6523fbce895ce9 1-9
+locales/en-US/commands/account/alts.json
+  s_78459d1bfcd714::t_48d9e165d06758 1
+locales/en-US/commands/account/characters.json
+  s_78459d1bfcd714::t_b7f865902915a6 1
+locales/en-US/llm/system.json
+  s_78459d1bfcd714::t_bc69dec987f3cc 1-5
+locales/en-US/commands/help.json
+  s_78459d1bfcd714::t_6437fb0f74dea7 1-19
+locales/en-US/commands/account/link.json
+  s_78459d1bfcd714::t_d51d57e1ac5568 1
+locales/en-US/commands/account/redeem.json
+  s_78459d1bfcd714::t_9a6c5c11179810 1
+locales/en-US/commands/account/relink.json
+  s_78459d1bfcd714::t_ed27c63c30e970 1
+locales/en-US/commands/account/union-raid.json
+  s_78459d1bfcd714::t_4f7660dcd2d3b9 1
+locales/en-US/commands/account/union.json
+  s_78459d1bfcd714::t_8db05e55d98364 1
+locales/en-US/commands/account/unlink.json
+  s_78459d1bfcd714::t_886cb1eb6bc5a9 1
+locales/en-US/commands/admin.json
+  s_78459d1bfcd714::t_f76d3afb9ef151 1
+locales/en-US/commands/fun/game.json
+  s_78459d1bfcd714::t_a2e03d8f82d811 1
+locales/en-US/commands/fun/nikke.json
+  s_78459d1bfcd714::t_b7ab4c166ef822 1
+locales/en-US/commands/guide/advise.json
+  s_78459d1bfcd714::t_4596b93a920661 1
+locales/en-US/commands/guide/campaign.json
+  s_78459d1bfcd714::t_1d75bf2df7c5ca 1
+locales/en-US/commands/guide/news.json
+  s_78459d1bfcd714::t_87f16ad0e9079e 1
+locales/en-US/commands/guide/rapture.json
+  s_78459d1bfcd714::t_4383db4967e462 1
+locales/en-US/commands/guide/solo-raid.json
+  s_78459d1bfcd714::t_70b991ef605815 1
+locales/en-US/commands/guide/tierlist.json
+  s_78459d1bfcd714::t_6dbd7d93c9b1f9 1
+locales/en-US/commands/guide/tower.json
+  s_78459d1bfcd714::t_cca8822eb4e863 1
+locales/en-US/commands/guide/union-leaderboard.json
+  s_78459d1bfcd714::t_428adb73b9afbb 1
+locales/en-US/commands/misc/api-info.json
+  s_78459d1bfcd714::t_66bad2206eec09 1
+locales/en-US/commands/misc/privacy.json
+  s_78459d1bfcd714::t_f322ee21bc35ab 1
+locales/en-US/commands/misc/stats.json
+  s_78459d1bfcd714::t_93f0798e9470b2 1
+locales/en-US/commands/misc/support.json
+  s_78459d1bfcd714::t_a3b6bec4047111 1
+locales/en-US/commands/music/player.json
+  s_78459d1bfcd714::t_7b8745bb34e528 1
+locales/en-US/commands/music/playlist.json
+  s_78459d1bfcd714::t_921b9f16e9dd2f 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "bcca8032ee49e8f59e85c2c99e36091be0a47bb6",
+  "prompts": {},
+  "sessions": {
+    "s_78459d1bfcd714": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0571029f8ffeRJ06d0J376xOcV",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
