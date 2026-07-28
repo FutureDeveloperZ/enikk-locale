@@ -1,0 +1,15 @@
+{
+	"disabled": "AI features are disabled at the current moment try again later",
+	"initializing": "I'm still initializing my neural core. Please wait a moment.",
+	"error": "An error occurred in my neural processing.",
+	"context": {
+		"server": "Server: ",
+		"channel": "Channel: ",
+		"date": "Date: ",
+		"time": "Time: ",
+		"user": "User: ",
+		"replyTo": "Reply to: ",
+		"header": "[Context: {{context}}]",
+		"archiveQuote": "[You once said: \"{{quote}}\"]"
+	}
+}
