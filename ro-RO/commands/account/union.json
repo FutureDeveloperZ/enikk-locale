@@ -1,4 +1,6 @@
 {
+	"name": "union",
+	"description": "View your guild info and member synchronizer",
 	"prefixOnly": "Use /union to look up guild info.",
 	"noArea": "Could not determine your game server area. Make sure you have a valid BlaBlaLink session.",
 	"noGuild": "You are not in a guild.",
