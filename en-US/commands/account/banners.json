@@ -1,1 +1,14 @@
-{}
+{
+	"prefixOnly": "This command is only available as a slash command.",
+	"fetchFailed": "Failed to fetch banner data.",
+	"expired": "Banner data expired. Run `/banners` again.",
+	"noBanners": "No {{type}} banners available.",
+	"noDetails": "No details available.",
+	"ongoing": "Ongoing",
+	"labels": {
+		"recruitments": "Recruitments",
+		"costumes": "Costumes",
+		"details": "Details",
+		"back": "Back"
+	}
+}

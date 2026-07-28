@@ -1,1 +1,49 @@
-{}
+{
+	"description": "Manage your music playlists",
+	"sessionExpired": "Session expired. Please try again.",
+	"create": {
+		"description": "Create a new playlist",
+		"nameDescription": "Playlist name",
+		"nameEmpty": "Playlist name cannot be empty.",
+		"created": "Playlist **{{name}}** created!",
+		"failed": "Failed to create playlist."
+	},
+	"add": {
+		"description": "Add a song to a playlist",
+		"songDescription": "Song name to add",
+		"playlistDescription": "Playlist name (omit if you have only one)",
+		"notFound": "Couldn't find any song matching **{{query}}**.",
+		"noPlaylists": "You don't have any playlists. Create one first with `/playlist create`.",
+		"addedTo": "**{{song}}** added to **{{playlist}}**.",
+		"failed": "Failed to add song.",
+		"foundPick": "Found **{{name}}**. Pick a playlist:",
+		"selectPlaceholder": "Select a playlist",
+		"optionDescription": "{{count}} song(s)"
+	},
+	"delete": {
+		"description": "Delete a playlist",
+		"playlistDescription": "Playlist to delete",
+		"deleted": "Playlist **{{name}}** deleted.",
+		"failed": "Failed to delete playlist."
+	},
+	"load": {
+		"description": "Load and play all songs from a playlist",
+		"playlistDescription": "Playlist to load",
+		"notFound": "No playlist named **{{name}}** found.",
+		"empty": "Playlist **{{name}}** is empty.",
+		"noVoiceChannel": "You need to be in a voice channel to play music.",
+		"loaded": "Loaded **{{count}}** song(s) from **{{name}}**.",
+		"loadedWithFailed": "Loaded **{{count}}** song(s) from **{{name}}**. {{failed}} couldn't be loaded."
+	},
+	"view": {
+		"description": "View your playlists or a specific playlist",
+		"playlistDescription": "Playlist to view (omit to see all)",
+		"noPlaylists": "You don't have any playlists yet.",
+		"notFound": "No playlist named **{{name}}** found.",
+		"playlistTitle": "Playlist: {{name}}",
+		"noSongs": "No songs yet.",
+		"andMore": "*...and {{count}} more*",
+		"yourPlaylists": "Your Playlists",
+		"entryCount": "{{count}} song(s)"
+	}
+}

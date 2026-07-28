@@ -1,1 +1,35 @@
-{}
+{
+	"useSlashCommand": "This command can only be used as a slash command.",
+	"invalidFormat": "Invalid stage format. Use the format **{chapter}-{stage}**, e.g. `32-33`.",
+	"chapterRange": "There are only chapters {{min}}-{{max}}. Available chapters: `{{min}}-{{max}}`.",
+	"stageRange": "Chapter {{chapter}} only has {{max}} stage(s). Please pick a stage between 1 and {{max}}.",
+	"stageNotFound": "Could not find **{{stage}}**.",
+	"deficitPenalty": "`{{deficit}}%` deficit, `{{penalty}}%` penalty",
+	"lowClearUnavailable": "No low clear data available for this stage yet.",
+	"lowClearTitle": "⚔️ {{title}} — Lowest Clears",
+	"statsField": "📊 Stats",
+	"top5Field": "🏆 Top 5",
+	"commonTeamField": "📋 Most Common Team ({{pct}}% of clears)",
+	"backToStage": "Back to Stage",
+	"lowClearButton": "Low Clears",
+	"unknown": "Unknown",
+	"embed": {
+		"title": "🗺️ Campaign - {{stage}} ({{label}})",
+		"destroy": "⏱️ **Destroy** in **{{time}}**",
+		"boss": "**Boss**: {{boss}}",
+		"stageElement": "**Stage Element**: {{emoji}} {{element}}",
+		"weakElement": "**Weak Element**: {{emoji}} {{element}}",
+		"effectiveRange": "**Effective Range**: `{{close}}%` / `{{mid}}%` / `{{far}}%`",
+		"recommendedPower": "**Recommended Power**: `{{power}}`",
+		"stuck": "**Stuck**: `{{count}}` players",
+		"chapterClearRate": "**Chapter clear rate**: `{{rate}}%`",
+		"rewardsField": "**REWARDS**",
+		"wavesField": "**WAVES**",
+		"waveLabel": "**WAVE {{number}}** ({{count}} Raptures)",
+		"clearsRecorded": "**Clears recorded**: {{count}}",
+		"recommended": "**Recommended**: `{{power}}`",
+		"lowest": "**Lowest**: `{{power}}` ({{pct}} of rec)",
+		"stuckCount": "**Stuck**: {{count}} players",
+		"trackedPlayers": "**Tracked players**: {{count}}"
+	}
+}

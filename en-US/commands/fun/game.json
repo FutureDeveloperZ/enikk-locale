@@ -1,1 +1,9 @@
-{}
+{
+	"channelOnly": "This command can only be used in server text channels.",
+	"dataError": "Could not load Nikke data. Try again later.",
+	"sessionExpired": "This game session has expired or is no longer accepting players.",
+	"joined": "You joined the game!",
+	"alreadyIn": "You're already in the game.",
+	"noSession": "No active game session found.",
+	"hostOnly": "Only the host can cancel the game."
+}

@@ -1,1 +1,60 @@
-{}
+{
+	"description": "Music player controls",
+	"restored": "Restored the now-playing message.",
+	"nothingPlaying": "Nothing is playing right now.",
+	"unknownSubcommand": "Unknown subcommand.",
+	"notDj": "Only the current DJ can control playback.",
+	"setVolumeTitle": "Set Volume",
+	"volumeLabel": "Volume (0-10)",
+	"volumePlaceholder": "Current: {{volume}}",
+	"volumeNotNumber": "Volume must be a number between 0 and 10.",
+	"stopped": "Stopped",
+	"leftVoiceChannel": "Left voice channel",
+	"play": {
+		"description": "Search and play a song",
+		"queryDescription": "Song name to search for",
+		"noVoiceChannel": "You need to be in a voice channel to play music.",
+		"notFound": "Couldn't find any song matching **{{query}}**.",
+		"added": "Added **{{name}}** to the queue (position #{{position}}).",
+		"nowPlaying": "Now playing **{{name}}**."
+	},
+	"queue": {
+		"description": "Show the current queue",
+		"empty": "The queue is empty.",
+		"title": "Music Queue",
+		"nowPlaying": "**Now Playing:** {{name}} — {{artist}}",
+		"upNext": "Up Next ({{count}})",
+		"upNextTotal": "Up Next ({{count}} total)",
+		"andMore": "*...and {{count}} more*",
+		"totalTime": "Total queue time: {{time}}"
+	},
+	"skip": {
+		"description": "Skip the current track",
+		"notDj": "Only the current DJ can skip tracks.",
+		"skipped": "Skipped the current track.",
+		"nothing": "Nothing to skip."
+	},
+	"remove": {
+		"description": "Remove a song from the queue",
+		"indexDescription": "Position in the queue to remove",
+		"notDj": "Only the current DJ can remove songs from the queue.",
+		"removed": "Removed **{{name}}** from the queue.",
+		"invalid": "Invalid queue position."
+	},
+	"clear": {
+		"description": "Clear the entire queue",
+		"notDj": "Only the current DJ can clear the queue.",
+		"cleared": "Cleared **{{count}}** song(s) from the queue.",
+		"alreadyEmpty": "The queue is already empty."
+	},
+	"send": {
+		"description": "Send a song as a voice message in this channel",
+		"songDescription": "Song name to send",
+		"notFound": "Couldn't find any song matching **{{query}}**.",
+		"noAudio": "Couldn't download **{{name}}**. The audio source might be unavailable.",
+		"downloadFailed": "Failed to download the song. Try again later.",
+		"processFailed": "Failed to process the audio file.",
+		"sent": "Sent **{{name}}** as a voice message.",
+		"voiceReply": "🎵 **{{name}}** — {{artist}}"
+	}
+}

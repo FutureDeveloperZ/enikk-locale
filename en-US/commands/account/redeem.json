@@ -1,1 +1,21 @@
-{}
+{
+	"prefixOnly": "This command is only available as a slash command.",
+	"noCookieMessage": "Your BlaBlaLink account is linked via User ID but needs a cookie session for CDK features. Use `/blabla-link` to relink with a cookie.",
+	"noLink": "You need to link your BlaBlaLink account first. Use `/blabla-link` to link.",
+	"recommendedTitle": "**Recommended CDK's**",
+	"expiresLabel": "Expires: <t:{{expires}}:R>",
+	"noExpiration": "No expiration",
+	"enterCdk": "Enter any CDK code to redeem.",
+	"cdkCodeLabel": "CDK Code",
+	"cdkCodePlaceholder": "Enter your CDK code here",
+	"invalidCdk": "Invalid CDK code.",
+	"networkError": "Network error. Please try again later.",
+	"redeemed": "Successfully redeemed **{{cdk}}**! Check your in-game mail to claim the rewards.",
+	"failed": "Failed to redeem **{{cdk}}**: {{error}}",
+	"validCdkRequired": "Please enter a valid CDK code.",
+	"labels": {
+		"claimed": "Claimed",
+		"claim": "Claim",
+		"redeemCdk": "Redeem CDK"
+	}
+}
