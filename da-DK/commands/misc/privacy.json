@@ -1,4 +1,6 @@
 {
+  "name": "privacy",
+  "description": "View the bot's privacy policy",
   "title": "🔒 Privacy Policy",
   "footer": "Last updated: July 2026",
   "section1": "**What we collect**\n• **AI configuration** (MongoDB) — enabled/disabled, auto-respond channels, mention mode, banned users\n• **BlaBlaLink bindings** (MongoDB) — Discord ID/username, BlaBlaLink user ID, timestamps\n• **In-memory message cache** (volatile) — last 100 messages per channel, lost on restart",
