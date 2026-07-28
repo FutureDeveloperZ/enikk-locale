@@ -1,5 +1,6 @@
 {
 	"clear-emojis": {
+		"name": "clear-emojis",
 		"description": "Delete all application emojis (owner only)",
 		"notOwner": "Only bot owners can use this command.",
 		"clearing": "Clearing emojis...",
