@@ -1,0 +1,48 @@
+{
+	"prefixOnly": "Use /blabla-link to link your BlaBlaLink account.",
+	"alreadyLinked": "Your Discord account is already linked to BlaBlaLink user **{{id}}**. Use /blabla-relink to change methods or /blabla-unlink to unlink.",
+	"selectRegionTitle": "Select Region",
+	"selectRegionDesc": "Choose your BlaBlaLink server region to get started.\n\n**🌍 Global** — JP / KR / NA / SEA / Global\n**🌏 HK/MC/TW** — Hong Kong / Macau / Taiwan",
+	"chooseMethod": "**Link Account — {{emoji}} {{region}}**\n\nChoose how you want to link your BlaBlaLink account:\n\n**By User ID** — Paste your BlaBlaLink user ID and verify via [profile signature]({{url}}).\n**By Cookie** — Paste your browser cookies from BlaBlaLink.",
+	"noVerification": "No pending verification. Start over with /blabla-link.",
+	"timeExpired": "Time expired. Please start over with /blabla-link.",
+	"fetchProfileFailed": "Could not fetch your BlaBlaLink profile. Please try again later.",
+	"phraseNotFound": "The phrase wasn't found in your BlaBlaLink signature yet.\nWait 1-2 minutes and click the button again.",
+	"verified": "✅ Verification successful! Your Discord account is now linked to **{{username}}**.",
+	"invalidUserId": "Invalid user ID. Please enter the numeric ID from your BlaBlaLink profile.",
+	"accountNotFound": "Could not find a BlaBlaLink account with that ID. Double-check your user ID and try again.",
+	"bothRequired": "Both User ID and Auth Token are required.",
+	"invalidCredentials": "Could not validate these credentials. Make sure the values are correct and you're still logged in on BlaBlaLink.",
+	"linkedCookie": "✅ Successfully linked to **{{username}}** via cookies! Your session will be automatically refreshed.",
+	"verifyFound": "✅ Found **{{username}}**!\n\nTo verify ownership, put this phrase in your [BlaBlaLink signature]({{url}}), then click check:\n**{{phrase}}**\n\nThen click the button below to check.\n_This verification will expire <t:{{expiry}}:R>._",
+	"labels": {
+		"global": "Global",
+		"hkMcTw": "HK/MC/TW",
+		"byUserId": "By User ID",
+		"byCookie": "By Cookie",
+		"changeRegion": "Change Region",
+		"checkVerification": "Check Verification",
+		"insertCookies": "Insert Cookies",
+		"pc": "PC",
+		"android": "Android",
+		"ios": "iOS"
+	},
+	"modals": {
+		"byUserIdTitle": "Link by User ID",
+		"userIdLabel": "Paste your BlaBlaLink user ID",
+		"userIdPlaceholder": "e.g. 9277418340955554060",
+		"byCookieTitle": "Link by Cookie",
+		"cookieUserIdLabel": "User ID (game_openid)",
+		"cookieUserIdPlaceholder": "Paste the game_openid value",
+		"cookieTokenLabel": "Auth Token (game_token)",
+		"cookieTokenPlaceholder": "Paste the game_token value"
+	},
+	"cookieInstructions": {
+		"pcTitle": "Link by Cookie — PC",
+		"pcDesc": "Follow these steps to get your BlaBlaLink cookies.\n\n**Step 1** — Go to **https://www.blablalink.com** in your browser and make sure you're logged in.\n\n**Step 2** — Press **F12** (or right-click → Inspect) to open Developer Tools.\n\n**Step 3** — Go to the **Application** tab (or **Storage** on some browsers).\n\n**Step 4** — On the left, expand **Cookies** and click **https://www.blablalink.com**.\n\n**Step 5** — Click the **Insert Cookies** button below and copy the **game_openid** and **game_token** values.",
+		"androidTitle": "Link by Cookie — Android",
+		"androidDesc": "Follow these steps to get your BlaBlaLink cookies from an Android device.\n\n**Step 1** — Open **Chrome** on your Android device, go to **https://www.blablalink.com**, and log in.\n\n**Step 2** — In the address bar, type or paste this:\n```js\njavascript:prompt('',document.cookie)\n```\n> ⚠️ If Chrome removes the `javascript:` prefix, save it as a bookmark and open it while on BlaBlaLink.\n\n**Step 3** — Copy the text that appears in the popup.\n\n**Step 4** — Click the **Insert Cookies** button below and paste the result.",
+		"iosTitle": "Link by Cookie — iOS",
+		"iosDesc": "iOS instructions are coming soon."
+	}
+}
