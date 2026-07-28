@@ -1,0 +1,51 @@
+{
+	"useSlashCommand": "This command can only be used as a slash command.",
+	"fetchErrorLeaderboard": "Could not fetch solo raid leaderboard: {{msg}}",
+	"fetchErrorTeams": "Could not fetch solo raid teams: {{msg}}",
+	"fetchErrorCharacters": "Could not fetch solo raid characters: {{msg}}",
+	"filterServerPlaceholder": "Filter by server...",
+	"invalidPage": "Invalid page number.",
+	"unknown": "Unknown",
+	"uses": " uses",
+	"teams": " teams",
+	"ranksTab": {
+		"title": "⚔️ Solo Raid Ranks — Raid {{raid}}",
+		"description": "ELO Leaderboard · {{server}}",
+		"noDataName": "No data",
+		"noDataValue": "No rankings available for this server.",
+		"fieldName": "🏆 Top Players"
+	},
+	"teamsTab": {
+		"title": "👥 Solo Raid Teams — Raid {{raid}}",
+		"description": "Sorted by {{sort}}",
+		"noDataName": "No data",
+		"noDataValue": "No team data available for this raid.",
+		"fieldName": "👥 Team Compositions"
+	},
+	"nikkesTab": {
+		"title": "👑 Top Nikkes — Raid {{raid}}",
+		"description": "By usage rate",
+		"noDataName": "No data",
+		"noDataValue": "No character usage data available for this raid.",
+		"fieldName": "👑 Character Usage"
+	},
+	"sortButtons": {
+		"count": "📈 Usage",
+		"maxdmg": "💥 Max DMG",
+		"avgdmg": "📊 Avg DMG"
+	},
+	"tabs": {
+		"ranks": "📊 Ranks",
+		"teams": "👥 Teams",
+		"nikkes": "👑 Top Nikkes"
+	},
+	"serverLabels": {
+		"WORLD": "World",
+		"NA": "NA",
+		"GLOBAL": "Global",
+		"JP": "JP",
+		"KR": "KR",
+		"SEA": "SEA",
+		"TW-HK": "TW/HK"
+	}
+}
