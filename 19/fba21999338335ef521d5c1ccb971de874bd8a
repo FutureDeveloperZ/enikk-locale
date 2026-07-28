@@ -1,0 +1,103 @@
+en-US/commands/music/playlist.json
+  s_2b12c2d59bcf28::t_dd39002add8bb0 1-49
+en-US/commands/misc/api-info.json
+  s_5c752cf9ed5692::t_2b3bc8f99ecadb 1-21
+en-US/commands/account/unlink.json
+  s_506c06663c6491::t_f4d44604ee2558 1-12
+en-US/commands/guide/rapture.json
+  s_9661b0b6ba0bba::t_bff7549b6282a1 1-10
+en-US/commands/misc/privacy.json
+  s_5c752cf9ed5692::t_d7680f052869fd 1-12
+en-US/commands/account/union-raid.json
+  s_506c06663c6491::t_19d31584356f37 1-35
+en-US/commands/account/banners.json
+  s_506c06663c6491::t_09101242fe349a 1-14
+en-US/commands/account/link.json
+  s_506c06663c6491::t_5a59152776d560 1-48
+en-US/commands/guide/union-leaderboard.json
+  s_9661b0b6ba0bba::t_d4e59888abb03c 1-39
+en-US/commands/fun/nikke.json
+  s_548d02361f6b2a::t_f6d94ca77c21a8 1-4
+en-US/commands/misc/support.json
+  s_5c752cf9ed5692::t_d1f42bf53e0bc7 1-5
+en-US/commands/guide/advise.json
+  s_9661b0b6ba0bba::t_e5867d0dce59a6 1-7
+en-US/commands/account/alts.json
+  s_506c06663c6491::t_9310673818296a 16
+  s_506c06663c6491::t_ec8448bf3e0cc9 1-15,17-51
+en-US/commands/account/characters.json
+  s_506c06663c6491::t_1b11148dbe67d0 1-65
+en-US/commands/account/union.json
+  s_506c06663c6491::t_503bb2a5afa362 1-26
+en-US/commands/guide/campaign.json
+  s_9661b0b6ba0bba::t_1e62c9ef3ad7b4 1-35
+en-US/commands/guide/tower.json
+  s_9661b0b6ba0bba::t_849c37d03b26b5 1-32
+en-US/commands/account/relink.json
+  s_506c06663c6491::t_66736905b0fd12 1-14
+en-US/commands/fun/game.json
+  s_548d02361f6b2a::t_0b556dc9f909d5 1-9
+en-US/commands/guide/tierlist.json
+  s_9661b0b6ba0bba::t_97b24313aea150 14-19
+  s_9661b0b6ba0bba::t_42905b544b4213 1-13,20-31
+en-US/commands/guide/news.json
+  s_9661b0b6ba0bba::t_7e46cff580176e 1-10
+en-US/commands/admin.json
+  s_2b12c2d59bcf28::t_06acd103e91f4f 1-11
+en-US/commands/misc/stats.json
+  s_5c752cf9ed5692::t_8494593fbf3106 1-11
+en-US/commands/music/player.json
+  s_2b12c2d59bcf28::t_a5e3b2a9f4c8b8 1-60
+en-US/commands/guide/solo-raid.json
+  s_9661b0b6ba0bba::t_34bf5392d3c2aa 1-51
+en-US/commands/account/redeem.json
+  s_506c06663c6491::t_fca8acdfd819f7 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "19fba21999338335ef521d5c1ccb971de874bd8a",
+  "prompts": {},
+  "sessions": {
+    "s_2b12c2d59bcf28": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05678f730ffezA7wZtTJpRYSEn",
+        "model": "big-pickle"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    },
+    "s_506c06663c6491": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0567935f5ffeTnEtmlRo5wHG0i",
+        "model": "big-pickle"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    },
+    "s_548d02361f6b2a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0567913e4ffeDzAujOoPT60yO2",
+        "model": "big-pickle"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    },
+    "s_5c752cf9ed5692": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_056791e65ffe46v0niFe4xlkGK",
+        "model": "big-pickle"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    },
+    "s_9661b0b6ba0bba": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0567902d3ffe6lA4nq2p06fruG",
+        "model": "big-pickle"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
