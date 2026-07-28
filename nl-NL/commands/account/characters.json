@@ -1,4 +1,6 @@
 {
+	"name": "characters",
+	"description": "View a player's NIKKE character roster",
 	"prefixOnly": "Use /characters to view a player's roster.",
 	"invalidUserId": "Invalid user ID. Please enter the numeric ID from your BlaBlaLink profile.",
 	"noProfile": "Could not find a BlaBlaLink profile with that user ID.",
