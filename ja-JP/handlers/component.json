@@ -1,0 +1,6 @@
+{
+  "error": "An error occurred while processing this interaction.",
+  "expired": "This interaction has expired. Please run the command again.",
+  "invalidAction": "Invalid action.",
+  "noPermission": "You do not have permission to use this component."
+}
