@@ -1,0 +1,31 @@
+{
+	"noMatch": "No characters match the current filters.",
+	"loading": "Loading tier list...",
+	"description": "{{mode}} Tier List — {{burst}}",
+	"descriptionSimple": "{{mode}} Tier List",
+	"header": "## 【 {{mode}} - Tierlist 】",
+	"viewOnPrydwen": "View on Prydwen",
+	"burstButtons": {
+		"all": "All",
+		"I": "Burst I",
+		"II": "Burst II",
+		"III": "Burst III"
+	},
+	"burstLabels": {
+		"all": "All Bursts",
+		"I": "Burst I",
+		"II": "Burst II",
+		"III": "Burst III"
+	},
+	"modeSelectPlaceholder": "Mode",
+	"weaponSelectPlaceholder": "Weapon",
+	"manufacturerSelectPlaceholder": "Manufacturer",
+	"elementSelectPlaceholder": "Element",
+	"raritySelectPlaceholder": "Rarity",
+	"filterOptions": {
+		"allWeapons": "All Weapons",
+		"allManufacturers": "All Manufacturers",
+		"allElements": "All Elements",
+		"allRarities": "All Rarities"
+	}
+}
