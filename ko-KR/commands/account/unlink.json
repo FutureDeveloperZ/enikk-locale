@@ -1,4 +1,6 @@
 {
+	"name": "blabla-unlink",
+	"description": "Unlink your BlaBlaLink account from Discord",
 	"prefixOnly": "Use /blabla-unlink to unlink your BlaBlaLink account.",
 	"noLink": "Your Discord account is not linked to any BlaBlaLink account.",
 	"confirmTitle": "⚠️ Unlink Account",
