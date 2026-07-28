@@ -1,0 +1,8 @@
+{
+	"title": "Enikk Help",
+	"selectCategory": "Select a category to view commands.",
+	"categoryHeader": "Commands in **{{category}}**",
+	"categoryHeaderWithCommands": "Commands in **{{category}}**\n\n{{commands}}",
+	"selectPlaceholder": "Select a category",
+	"optionDescription": "View {{category}} commands"
+}
