@@ -1,0 +1,4 @@
+{
+	"notFound": "Couldn't find any character matching **{{query}}**.",
+	"viewInViewer": "View in NKAS Viewer"
+}

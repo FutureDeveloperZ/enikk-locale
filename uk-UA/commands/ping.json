@@ -1,0 +1,5 @@
+{
+	"title": "🏓 Pong!",
+	"description": "WebSocket heartbeat: `{{latency}}ms`",
+	"refresh": "Refresh"
+}

@@ -1,0 +1,32 @@
+{
+	"useSlashCommand": "This command can only be used as a slash command.",
+	"noData": "No tower data found for **{{manufacturer}}**.",
+	"floorRange": "**{{manufacturer}}** tower only has {{max}} floors. Please pick a stage between 1 and {{max}}.",
+	"floorNotFound": "Could not find **{{floor}}**.",
+	"deficitPenalty": "`{{deficit}}%` deficit, `{{penalty}}%` penalty",
+	"lowClearUnavailable": "No low clear data available for this tower floor yet.",
+	"lowClearTitle": "⚔️ {{floor}} — Lowest Clears",
+	"statsField": "📊 Stats",
+	"top5Field": "🏆 Top 5",
+	"commonTeamField": "📋 Most Common Team ({{pct}}% of clears)",
+	"backToFloor": "Back to Floor",
+	"lowClearButton": "Low Clears",
+	"unknown": "Unknown",
+	"embed": {
+		"title": "🏢 Tower - {{name}}",
+		"destroy": "⏱️ **Destroy** in **{{time}}**",
+		"boss": "**Boss**: {{boss}}",
+		"stageElement": "**Stage Element**: {{emoji}} {{element}}",
+		"weakElement": "**Weak Element**: {{emoji}} {{element}}",
+		"effectiveRange": "**Effective Range**: `{{close}}%` / `{{mid}}%` / `{{far}}%`",
+		"recommendedPower": "**Recommended Power**: `{{power}}`",
+		"rewardsField": "**REWARDS**",
+		"wavesField": "**WAVES**",
+		"waveLabel": "**WAVE {{number}}** ({{count}} Raptures)",
+		"clearsRecorded": "**Clears recorded**: {{count}}",
+		"recommended": "**Recommended**: `{{power}}`",
+		"lowest": "**Lowest**: `{{power}}` ({{pct}} of rec)",
+		"stuckCount": "**Stuck**: {{count}} players",
+		"trackedPlayers": "**Tracked players**: {{count}}"
+	}
+}

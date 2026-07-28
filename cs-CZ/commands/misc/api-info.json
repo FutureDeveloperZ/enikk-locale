@@ -1,0 +1,21 @@
+{
+  "title": "Powered by",
+  "description": "Enikk connects to several external services to provide its features.",
+  "discordApi": "Discord API",
+  "discordApiDescription": "Core bot platform — receiving events, sending messages, slash commands, voice connections.",
+  "nkas": "NKAS (Nikke Ark Storage)",
+  "nkasDescription": "Character image CDN, jukebox music metadata and audio, alias mappings, and color data for NIKKE: Goddess of Victory.",
+  "nikkeGg": "Nikke.gg (dotgg)",
+  "nikkeGgDescription": "Character database with skills, tier lists, and voice actor info. Used as a fallback when NKAS data is incomplete.",
+  "blablalink": "BlaBlaLink",
+  "blablalinkDescription": "Official NIKKE community platform API. Provides player profiles, character rosters, guild info, and in-game progress.",
+  "characterDb": "Character DB CDN",
+  "characterDbDescription": "Cached game data (class, burst, element, weapon type) for auto-battle calculations and profile display.",
+  "huggingFace": "HuggingFace",
+  "huggingFaceDescription": "Source for the Qwen 2.5 1.5B Instruct GGUF model used by the AI chatbot feature. Downloaded once, runs locally.",
+  "lavalink": "Lavalink",
+  "lavalinkDescription": "Self-hosted audio server for music playback in voice channels. Streams NKAS jukebox tracks to Discord.",
+  "mongoDb": "MongoDB",
+  "mongoDbDescription": "Optional persistent storage for guild configurations, AI settings, and user data.",
+  "footer": "Some services require configuration via environment variables."
+}

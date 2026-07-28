@@ -1,0 +1,6 @@
+{
+  "error": "An error occurred while executing this command.",
+  "notFound": "Command not found.",
+  "disabled": "This command is currently disabled.",
+  "cooldown": "Please wait {{seconds}} second(s) before using this command again."
+}

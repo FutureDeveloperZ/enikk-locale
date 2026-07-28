@@ -1,0 +1,10 @@
+{
+	"askName": "Which Rapture would you like to look up?",
+	"notFoundQuery": "Couldn't find any Rapture matching **{{query}}**.",
+	"notFoundData": "Could not find that Rapture's data.",
+	"skillsTitle": "Skills — {{element}}",
+	"elements": "**Elements:** {{elements}}",
+	"weapon": "Weapon: {{weapon}}",
+	"type": "Type: {{type}}",
+	"target": "Target: {{target}}"
+}
