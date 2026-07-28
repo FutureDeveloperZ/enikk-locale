@@ -1,0 +1,15 @@
+{
+	"games": {
+		"nikkedle": {
+			"noData": "No Nikke data available. Try again later.",
+			"rendering": "Rendering board...",
+			"title": "**Nikkedle** 🎯",
+			"candidatesRemaining": "`{{remaining}}` candidate{{s}} remaining · Guess {{guesses}}/{{maxGuesses}}",
+			"firstGuess": "Send a Nikke name in chat to make the first guess.",
+			"gameOver": "The answer was **{{name}}**! 🎉",
+			"gameOverNoWin": "The answer was **{{name}}**",
+			"guessesUsed": "Guesses used: {{guesses}}/{{maxGuesses}}",
+			"noGuesses": "No guesses were made."
+		}
+	}
+}
