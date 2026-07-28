@@ -1,0 +1,11 @@
+{
+	"clear-emojis": {
+		"description": "Delete all application emojis (owner only)",
+		"notOwner": "Only bot owners can use this command.",
+		"clearing": "Clearing emojis...",
+		"noEmojis": "No application emojis to clear.",
+		"cleared": "Cleared {{deleted}} emoji(s)",
+		"clearedWithFailed": "Cleared {{deleted}} emoji(s) ({{failed}} failed)",
+		"restartNote": "Restart the bot to re-upload from local assets."
+	}
+}
