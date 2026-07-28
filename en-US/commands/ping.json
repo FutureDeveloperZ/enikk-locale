@@ -1,5 +1,5 @@
 {
-  "title": "Pong!",
-  "description": "WebSocket heartbeat: {{heartbeat}}ms\nRound trip: {{roundtrip}}ms",
-  "late": "The round trip took {{latency}}ms."
+	"title": "🏓 Pong!",
+	"description": "WebSocket heartbeat: `{{latency}}ms`",
+	"refresh": "Refresh"
 }
