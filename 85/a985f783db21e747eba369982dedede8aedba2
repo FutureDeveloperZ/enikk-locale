@@ -1,0 +1,146 @@
+en-US/commands/guide/tower.json
+  s_83998e71b70a43::t_def6cd1f1f1199 2-3
+en-US/commands/guide/news.json
+  s_83998e71b70a43::t_9a18d116c19752 2-3
+en-US/commands/ping.json
+  s_83998e71b70a43::t_397e3ddb48e975 2-3
+  s_78459d1bfcd714::t_702253adae35cb 5
+en-US/commands/guide/tierlist.json
+  s_83998e71b70a43::t_36869259182518 2-3
+en-US/patterns/whos.json
+  s_d0ddcf4e23896b::t_818bb13f4c4021 1-4
+en-US/commands/account/link.json
+  s_83998e71b70a43::t_1ec6f6d3774495 2-3
+en-US/commands/guide/campaign.json
+  s_83998e71b70a43::t_2a13b9c29333bd 2-3
+en-US/commands/guide/union-leaderboard.json
+  s_83998e71b70a43::t_313600052ed444 2-3
+en-US/services/music.json
+  s_de816213588514::t_c457ae6d84d4f5 1-12
+en-US/patterns/leave.json
+  s_d0ddcf4e23896b::t_c74b0050218bae 1-4
+en-US/lib/games/zoom-who.json
+  s_22fea6d3a5262b::t_c5d3d4467c3e09 1-15
+en-US/commands/config.json
+  s_83998e71b70a43::t_728b1e1b06f2ab 2-3
+en-US/commands/music/playlist.json
+  s_83998e71b70a43::t_ce57d7d6172875 2
+en-US/commands/account/banners.json
+  s_83998e71b70a43::t_f9b07c33cf36cb 2-3
+en-US/commands/account/union.json
+  s_83998e71b70a43::t_71730b51034a7f 2-3
+en-US/patterns/skip.json
+  s_d0ddcf4e23896b::t_f92109f0d8eaac 1-6
+en-US/commands/account/profile.json
+  s_83998e71b70a43::t_62c9c3510f228f 2-3
+en-US/commands/account/redeem.json
+  s_83998e71b70a43::t_f6e1d2f84e89f8 2-3
+en-US/commands/misc/stats.json
+  s_83998e71b70a43::t_e60d2eadc535eb 2-3
+en-US/patterns/seek.json
+  s_d0ddcf4e23896b::t_c9222d4489e07a 1-5
+en-US/commands/misc/support.json
+  s_83998e71b70a43::t_13802a77bf1c41 2-3
+en-US/commands/misc/api-info.json
+  s_83998e71b70a43::t_be9ced9a1f8a34 2-3
+en-US/patterns/stop.json
+  s_d0ddcf4e23896b::t_107a2806d9afce 1-4
+en-US/commands/guide/advise.json
+  s_83998e71b70a43::t_83cd44b829881b 2-3
+en-US/commands/account/alts.json
+  s_83998e71b70a43::t_10de9dad1e6d30 2-3
+en-US/commands/admin.json
+  s_83998e71b70a43::t_d1db72d3db9edf 3
+en-US/commands/settings.json
+  s_83998e71b70a43::t_30ec644dd2984c 2-3
+en-US/commands/fun/nikke.json
+  s_83998e71b70a43::t_7acaf49aa0cf65 2-3
+en-US/commands/fun/game.json
+  s_83998e71b70a43::t_2a4053751e2b53 2-3
+en-US/commands/guide/rapture.json
+  s_83998e71b70a43::t_78566c3703d85a 2-3
+en-US/commands/music/player.json
+  s_83998e71b70a43::t_c9ebda3866fbb9 2
+en-US/commands/account/unlink.json
+  s_83998e71b70a43::t_913a9464977811 2-3
+en-US/commands/account/characters.json
+  s_83998e71b70a43::t_47a20acaaa965a 2-3
+en-US/services/blablalink-embed.json
+  s_de816213588514::t_106bbe960d99d3 1-17
+en-US/commands/guide/solo-raid.json
+  s_83998e71b70a43::t_198d5a1abab8fb 2-3
+en-US/lib/games/nikkedle.json
+  s_22fea6d3a5262b::t_e920f5e5884b39 1-15
+en-US/commands/account/union-raid.json
+  s_83998e71b70a43::t_32b26aa9034e74 2-3
+en-US/commands/account/relink.json
+  s_83998e71b70a43::t_d8629763aba230 2-3
+en-US/patterns/markov.json
+  s_d0ddcf4e23896b::t_c15c1a809a9e3b 1-3
+en-US/lib/infographic.json
+  s_22fea6d3a5262b::t_3dca19661f393d 1-10
+en-US/patterns/guide.json
+  s_d0ddcf4e23896b::t_2e29471c641c08 1-4
+en-US/lib/games/nikke-shiritori.json
+  s_22fea6d3a5262b::t_d3ab61266f1bf4 1-33
+en-US/services/llm.json
+  s_de816213588514::t_fce29167607f7b 1-15
+en-US/lib/pagination.json
+  s_22fea6d3a5262b::t_22fd3768a56efa 1-10
+en-US/patterns/play.json
+  s_d0ddcf4e23896b::t_ab84a46bb0760f 1-6
+en-US/lib/blabla-resolve.json
+  s_22fea6d3a5262b::t_d317c1808e7c86 1-13
+en-US/commands/help.json
+  s_83998e71b70a43::t_80214f0b7069d8 2-3
+en-US/commands/misc/privacy.json
+  s_83998e71b70a43::t_585498582babc9 2-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "85a985f783db21e747eba369982dedede8aedba2",
+  "prompts": {},
+  "sessions": {
+    "s_22fea6d3a5262b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05652adb0ffeMIyluHxVm1iDk1",
+        "model": "big-pickle"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    },
+    "s_78459d1bfcd714": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0571029f8ffeRJ06d0J376xOcV",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    },
+    "s_83998e71b70a43": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0564140e8ffe1iMg4OAFX5hBvF",
+        "model": "big-pickle"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    },
+    "s_d0ddcf4e23896b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05652ec3fffeKK1XqenF0aGEiX",
+        "model": "big-pickle"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    },
+    "s_de816213588514": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05652d0a9ffemveU6rFu7DkEu6",
+        "model": "big-pickle"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
