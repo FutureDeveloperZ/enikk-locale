@@ -1,0 +1,31 @@
+en-US/lib/games/shiritori.json
+  s_78459d1bfcd714::t_a46d83b6674e7a 1-29
+en-US/services/blablalinkEmbed.json
+  s_78459d1bfcd714::t_0b03d66e8ff042 1-17
+en-US/lib/pagination.json
+  s_78459d1bfcd714::t_1f36f9050b0738 2-7
+en-US/lib/infographic.json
+  s_78459d1bfcd714::t_caf197a3df5579 2-7
+en-US/lib/games/nikkedle.json
+  s_78459d1bfcd714::t_b4ec94d5651295 2-10
+en-US/lib/blablaResolve.json
+  s_78459d1bfcd714::t_96a0a3fc47d008 1-11
+en-US/lib/games/zoomWho.json
+  s_78459d1bfcd714::t_1b6ba0cca49df3 1-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "dc3c129815b6527a2fe3650a266c700ec7fe1d9a",
+  "prompts": {},
+  "sessions": {
+    "s_78459d1bfcd714": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0571029f8ffeRJ06d0J376xOcV",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
