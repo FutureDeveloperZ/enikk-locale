@@ -1,0 +1,6 @@
+{
+  "voiceChannel": "You need to be in a voice channel to play music.",
+  "noQuery": "What song would you like to play?",
+  "notFound": "Couldn't find any song matching **{{query}}**.",
+  "queued": "Added **{{name}}** to the queue (position #{{position}})."
+}

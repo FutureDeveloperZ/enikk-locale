@@ -1,4 +1,6 @@
 {
+	"name": "help",
+	"description": "View available commands by category",
 	"title": "Enikk Help",
 	"selectCategory": "Select a category to view commands.",
 	"categoryHeader": "Commands in **{{category}}**",

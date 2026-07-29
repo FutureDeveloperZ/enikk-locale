@@ -1,0 +1,4 @@
+{
+  "title": "Who's {{name}}?",
+  "noInfo": "I don't have any information about **{{name}}** yet."
+}

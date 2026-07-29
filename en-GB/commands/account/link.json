@@ -1,4 +1,6 @@
 {
+	"name": "blabla-link",
+	"description": "Link your BlaBlaLink account to your Discord account",
 	"prefixOnly": "Use /blabla-link to link your BlaBlaLink account.",
 	"alreadyLinked": "Your Discord account is already linked to BlaBlaLink user **{{id}}**. Use /blabla-relink to change methods or /blabla-unlink to unlink.",
 	"selectRegionTitle": "Select Region",

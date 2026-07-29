@@ -1,7 +1,8 @@
 {
+	"name": "tierlist",
+	"description": "{{mode}} Tier List — {{burst}}",
 	"noMatch": "No characters match the current filters.",
 	"loading": "Loading tier list...",
-	"description": "{{mode}} Tier List — {{burst}}",
 	"descriptionSimple": "{{mode}} Tier List",
 	"header": "## 【 {{mode}} - Tierlist 】",
 	"viewOnPrydwen": "View on Prydwen",

@@ -1,4 +1,6 @@
 {
+	"name": "campaign",
+	"description": "Look up a campaign stage",
 	"useSlashCommand": "This command can only be used as a slash command.",
 	"invalidFormat": "Invalid stage format. Use the format **{chapter}-{stage}**, e.g. `32-33`.",
 	"chapterRange": "There are only chapters {{min}}-{{max}}. Available chapters: `{{min}}-{{max}}`.",

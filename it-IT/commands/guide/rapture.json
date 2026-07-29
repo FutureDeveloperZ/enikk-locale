@@ -1,4 +1,6 @@
 {
+	"name": "rapture",
+	"description": "Look up a Rapture from the Beastiary",
 	"askName": "Which Rapture would you like to look up?",
 	"notFoundQuery": "Couldn't find any Rapture matching **{{query}}**.",
 	"notFoundData": "Could not find that Rapture's data.",

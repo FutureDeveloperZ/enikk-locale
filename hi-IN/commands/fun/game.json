@@ -1,4 +1,6 @@
 {
+	"name": "game",
+	"description": "Start an interactive game",
 	"channelOnly": "This command can only be used in server text channels.",
 	"dataError": "Could not load Nikke data. Try again later.",
 	"sessionExpired": "This game session has expired or is no longer accepting players.",

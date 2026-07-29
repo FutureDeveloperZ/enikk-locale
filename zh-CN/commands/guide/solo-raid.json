@@ -1,4 +1,6 @@
 {
+	"name": "solo-raid",
+	"description": "Solo raid rankings, teams, and character usage",
 	"useSlashCommand": "This command can only be used as a slash command.",
 	"fetchErrorLeaderboard": "Could not fetch solo raid leaderboard: {{msg}}",
 	"fetchErrorTeams": "Could not fetch solo raid teams: {{msg}}",

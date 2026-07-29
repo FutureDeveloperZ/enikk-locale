@@ -1,0 +1,12 @@
+{
+	"nowPlaying": "{{progressBar}}\n-# By {{artist}}",
+	"controls": {
+		"stop": "Stop",
+		"resume": "Resume",
+		"pause": "Pause"
+	},
+	"queueLocked": "The queue is currently locked. Only members with Manage Messages can add songs.",
+	"blacklisted": "**{{name}}** is blacklisted and cannot be played.",
+	"unavailable": "**{{name}}** doesn't seem to be available right now.",
+	"failedResolve": "Couldn't play **{{name}}** — failed to resolve the audio source."
+}

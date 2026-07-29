@@ -1,0 +1,13 @@
+{
+	"blablaResolve": {
+		"invalidUserId": "Invalid user ID. Please enter the numeric ID from your BlaBlaLink profile.",
+		"notFound": "Could not find a BlaBlaLink profile with that user ID.",
+		"noLink": "{{user}} doesn't have a BlaBlaLink account linked.",
+		"noAlt": "{{user}} doesn't have an alt labeled **{{label}}**.",
+		"invalidSearch": "Please provide a valid search query.",
+		"searchNotFound": "Couldn't find any users matching **{{query}}**.",
+		"searchNoProfile": "Found **{{username}}** but they don't have a game profile.",
+		"noOwnLink": "You don't have a BlaBlaLink account linked. Use **/blabla-link** to link one, or provide a **user_id** or **user** option.",
+		"noOwnAlt": "No alt labeled **{{label}}** found on your account."
+	}
+}

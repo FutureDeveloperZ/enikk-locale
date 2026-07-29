@@ -1,4 +1,6 @@
 {
+	"name": "blabla-alts",
+	"description": "Manage your alternate BlaBlaLink accounts",
 	"prefixOnly": "このコマンドはスラッシュコマンドとして使用する必要があります。",
 	"noAccount": "BlaBlaLinkアカウントがまだリンクされていません。最初に`/blabla-link`を使用してください。",
 	"primaryLabel": "**Primary:** {{id}}{{marker}}",

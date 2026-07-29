@@ -1,4 +1,6 @@
 {
+	"name": "union-raid",
+	"description": "View the union raid status",
 	"prefixOnly": "Use /union-raid to look up union raid status.",
 	"noArea": "Could not determine your game server area. Make sure you have a valid BlaBlaLink session.",
 	"noGuild": "You are not in a guild.",

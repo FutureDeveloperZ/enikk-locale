@@ -1,4 +1,6 @@
 {
+	"name": "nikke",
+	"description": "Look up a character image from NKAS",
 	"notFound": "Couldn't find any character matching **{{query}}**.",
 	"viewInViewer": "View in NKAS Viewer"
 }

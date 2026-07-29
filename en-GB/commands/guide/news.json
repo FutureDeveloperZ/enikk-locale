@@ -1,4 +1,6 @@
 {
+	"name": "news",
+	"description": "Fetch latest NIKKE news",
 	"useSlashCommand": "Use /news to view the latest NIKKE news.",
 	"fetchError": "Could not fetch news at this time.",
 	"latestNews": "## Latest NIKKE News",

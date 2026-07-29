@@ -1,6 +1,7 @@
 {
+  "name": "settings",
+  "description": "Manage your personal settings",
   "title": "Settings",
-  "description": "Manage your personal settings.",
   "language": {
     "title": "Language",
     "description": "Set your preferred language for bot responses.",

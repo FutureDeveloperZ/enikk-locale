@@ -1,0 +1,8 @@
+{
+	"prev": "◀ Prev",
+	"next": "Next ▶",
+	"pageBtn": "Page {{page}}/{{totalPages}}",
+	"modalTitle": "Jump to page",
+	"pageInput": "Page number (1-{{totalPages}})",
+	"pagePlaceholder": "Current: {{currentPage}}"
+}

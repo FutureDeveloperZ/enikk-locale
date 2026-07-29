@@ -1,0 +1,17 @@
+{
+	"errorTitle": "⚠️ Error",
+	"genericError": "An error has occurred. The Developers has been notified about it.",
+	"devNotified": "#- The Developers just made themself aware about the issue",
+	"sessionExpired": "Your BlaBlaLink session has expired. Please relink your account with **/blabla-link** using a fresh cookie.",
+	"relinkPrompt": "Use /blabla-link to update your cookie",
+	"noGameAccount": "User does not have a game account linked. In-game data is unavailable.",
+	"noGameAccountHint": "#- This user hasn't linked a game account",
+	"tryAgain": "There might be an issue currently. Please try again later.",
+	"fields": {
+		"errorCode": "Error Code",
+		"details": "Details",
+		"cookie": "Cookie"
+	},
+	"cookieGlobal": "Global (env)",
+	"cookieUser": "User"
+}

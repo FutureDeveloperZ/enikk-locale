@@ -1,5 +1,6 @@
 {
-  "title": "Support Server",
+  "name": "support",
   "description": "Need help? Have a suggestion? Join the support server!",
+  "title": "Support Server",
   "button": "Join Support Server"
 }

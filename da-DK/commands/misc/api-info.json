@@ -1,6 +1,7 @@
 {
-  "title": "Powered by",
+  "name": "api-info",
   "description": "Enikk connects to several external services to provide its features.",
+  "title": "Powered by",
   "discordApi": "Discord API",
   "discordApiDescription": "Core bot platform — receiving events, sending messages, slash commands, voice connections.",
   "nkas": "NKAS (Nikke Ark Storage)",
