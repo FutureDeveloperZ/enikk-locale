@@ -1,15 +1,15 @@
 {
-	"disabled": "AI features are disabled at the current moment try again later",
-	"initializing": "I'm still initializing my neural core. Please wait a moment.",
-	"error": "An error occurred in my neural processing.",
+	"disabled": "Las funciones de IA están desactivadas en el momento actual inténtalo de nuevo más tarde",
+	"initializing": "Todavía estoy inicializando mi núcleo neuronal. Por favor espere un momento.",
+	"error": "Se ha producido un error en mi proceso neuronal.",
 	"context": {
-		"server": "Server: ",
-		"channel": "Channel: ",
-		"date": "Date: ",
-		"time": "Time: ",
-		"user": "User: ",
-		"replyTo": "Reply to: ",
-		"header": "[Context: {{context}}]",
-		"archiveQuote": "[You once said: \"{{quote}}\"]"
+		"server": "Servidor: ",
+		"channel": "Canal: ",
+		"date": "Fecha: ",
+		"time": "Tiempo: ",
+		"user": "Usuario: ",
+		"replyTo": "Responder a: ",
+		"header": "[Contexto: {{context}}]",
+		"archiveQuote": "[Has dicho: \"{{quote}}\"]"
 	}
 }
