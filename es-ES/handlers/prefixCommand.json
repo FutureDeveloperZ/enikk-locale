@@ -1,9 +1,9 @@
 {
-  "error": "An error occurred while executing this command.",
-  "notFound": "Command not found. Try using `/help` to see available commands.",
-  "ownerOnly": "This command is restricted to bot owners.",
-  "noPermission": "You need the following permissions: {{permissions}}",
-  "cooldown": "Please wait {{seconds}} second(s) before using this command again.",
-  "guildOnly": "This command can only be used in servers.",
-  "usage": "Usage: {{prefix}}{{command}} {{args}}"
+  "error": "Ha ocurrido un error al ejecutar este comando.",
+  "notFound": "Comando no encontrado. Intenta usar `/help` para ver los comandos disponibles.",
+  "ownerOnly": "Este comando está restringido a los propietarios del bot.",
+  "noPermission": "Necesitas los siguientes permisos: {{permissions}}",
+  "cooldown": "Por favor, espera {{seconds}} segundo(s) antes de usar este comando de nuevo.",
+  "guildOnly": "Este comando solo puede usarse en servidores.",
+  "usage": "Uso: {{prefix}}{{command}} {{args}}"
 }
