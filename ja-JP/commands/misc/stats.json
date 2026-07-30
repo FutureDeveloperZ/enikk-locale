@@ -1,12 +1,11 @@
 {
   "name": "stats",
   "description": "Show bot statistics",
-  "title": "Bot Statistics",
   "servers": "Servers",
   "users": "Users",
   "ping": "Ping",
-  "uptime": "Uptime",
-  "memory": "Memory",
+  "version": "Version",
+  "developers": "Developers",
   "server": "Server",
   "website": "Website",
   "invite": "Invite"
