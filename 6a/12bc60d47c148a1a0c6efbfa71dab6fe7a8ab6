@@ -1,0 +1,20 @@
+en-US/commands/misc/stats.json
+  s_c08da8ae00fa32::t_8599a210da6757 8
+  s_c08da8ae00fa32::t_399fbd80ffd523 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "6a12bc60d47c148a1a0c6efbfa71dab6fe7a8ab6",
+  "prompts": {},
+  "sessions": {
+    "s_c08da8ae00fa32": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_04f25b2b2ffe4HEEXda2LtXi7t",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
