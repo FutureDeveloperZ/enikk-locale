@@ -1,16 +1,16 @@
 {
 	"name": "banners",
-	"description": "View current recruitment and costume banners",
-	"prefixOnly": "This command is only available as a slash command.",
-	"fetchFailed": "Failed to fetch banner data.",
-	"expired": "Banner data expired. Run `/banners` again.",
-	"noBanners": "No {{type}} banners available.",
-	"noDetails": "No details available.",
-	"ongoing": "Ongoing",
+	"description": "Bekijk huidige rekrutering en kostuum banners",
+	"prefixOnly": "Dit commando is alleen beschikbaar als een slash opdracht.",
+	"fetchFailed": "Fout bij het ophalen van bannergegevens.",
+	"expired": "Banner gegevens verlopen. Voer `/banners` opnieuw uit.",
+	"noBanners": "Geen {{type}} banners beschikbaar.",
+	"noDetails": "Geen details beschikbaar.",
+	"ongoing": "Lopende",
 	"labels": {
-		"recruitments": "Recruitments",
-		"costumes": "Costumes",
+		"recruitments": "Rekruteringen",
+		"costumes": "Kostuums",
 		"details": "Details",
-		"back": "Back"
+		"back": "Terug"
 	}
 }
