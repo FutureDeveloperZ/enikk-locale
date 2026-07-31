@@ -1,0 +1,19 @@
+en-US/commands/account/relink.json
+  s_806cb35062890f::t_4cf0941c4af3ad 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "618e0a0eb371f0c6f99d4d4eaf1ae9c392690bfa",
+  "prompts": {},
+  "sessions": {
+    "s_806cb35062890f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_049f31314ffeziGl3Zj0Ih6YQh",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
