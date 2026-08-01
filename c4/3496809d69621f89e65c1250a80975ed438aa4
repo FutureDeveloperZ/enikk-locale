@@ -1,0 +1,19 @@
+en-US/handlers/component.json
+  s_cc3de19205a27a::t_496b1c48da44e4 5-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "c43496809d69621f89e65c1250a80975ed438aa4",
+  "prompts": {},
+  "sessions": {
+    "s_cc3de19205a27a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_040779199ffewQ8KMMmlhjH3ZQ",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
