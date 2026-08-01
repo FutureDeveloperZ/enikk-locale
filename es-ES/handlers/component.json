@@ -2,5 +2,6 @@
   "error": "Ocurrió un error mientras se procesaba esta interacción.",
   "expired": "Esta interacción ha caducado. Por favor, ejecute el comando de nuevo.",
   "invalidAction": "Acción inválida.",
-  "noPermission": "No tiene permiso para usar este componente."
+  "noPermission": "No tiene permiso para usar este componente.",
+  "cooldown": "You are on cooldown. Please wait {{seconds}} second(s) before using this again."
 }
