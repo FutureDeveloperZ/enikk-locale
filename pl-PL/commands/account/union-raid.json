@@ -5,6 +5,7 @@
 	"noArea": "Could not determine your game server area. Make sure you have a valid BlaBlaLink session.",
 	"noGuild": "You are not in a guild.",
 	"noData": "Could not fetch union raid data. The raid might not be active.",
+	"currentSeasonLocked": "You are not part of **{{guild}}**, so you can't view its current-season raid data. Ask the player to link their account, or try again after the season ends.",
 	"sessionExpired": "Session expired. Please start again.",
 	"dataNotAvailableTitle": "Data Not Available",
 	"dataNotAvailableDesc": "Raid data for past seasons is only accessible to current guild members. Join the guild to view this season's details.",
