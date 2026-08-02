@@ -1,6 +1,6 @@
 {
-  "error": "An error occurred while executing this command.",
-  "notFound": "Command not found.",
-  "disabled": "This command is currently disabled.",
-  "cooldown": "Please wait {{seconds}} second(s) before using this command again."
+  "error": "Ha ocurrido un error al ejecutar este comando.",
+  "notFound": "Comando no encontrado.",
+  "disabled": "Este comando está actualmente desactivado.",
+  "cooldown": "Por favor, espera {{seconds}} segundo(s) antes de usar este comando de nuevo."
 }

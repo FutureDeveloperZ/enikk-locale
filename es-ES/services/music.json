@@ -1,12 +1,12 @@
 {
-	"nowPlaying": "{{progressBar}}\n-# By {{artist}}",
+	"nowPlaying": "{{progressBar}}\n-# por {{artist}}",
 	"controls": {
-		"stop": "Stop",
-		"resume": "Resume",
-		"pause": "Pause"
+		"stop": "Parar",
+		"resume": "Continuar",
+		"pause": "Pausa"
 	},
-	"queueLocked": "The queue is currently locked. Only members with Manage Messages can add songs.",
-	"blacklisted": "**{{name}}** is blacklisted and cannot be played.",
-	"unavailable": "**{{name}}** doesn't seem to be available right now.",
-	"failedResolve": "Couldn't play **{{name}}** — failed to resolve the audio source."
+	"queueLocked": "La cola está actualmente bloqueada. Sólo los miembros con Administrar Mensajes pueden añadir canciones.",
+	"blacklisted": "**{{name}}** está en la lista negra y no se puede reproducir.",
+	"unavailable": "**{{name}}** no parece estar disponible ahora mismo.",
+	"failedResolve": "No se pudo reproducir **{{name}}** — no se pudo resolver la fuente de audio."
 }

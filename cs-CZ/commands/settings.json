@@ -1,14 +1,17 @@
 {
   "name": "settings",
   "description": "Manage your personal settings",
-  "title": "Settings",
+  "title": "Enikk Profile Settings",
+  "profileDescription": "Change your Enikk profile settings here.",
+  "profileSummary": "Profile Summary",
   "language": {
-    "title": "Language",
+    "title": "Current Language",
     "description": "Set your preferred language for bot responses.",
     "current": "Your current language: **{{language}}**",
     "updated": "Language set to **{{language}}**.",
     "reset": "Language reset to server default.",
     "selectPlaceholder": "Select your language",
-    "global": "Use server default"
+    "global": "Use server default",
+    "serverDefault": "Server default"
   }
 }

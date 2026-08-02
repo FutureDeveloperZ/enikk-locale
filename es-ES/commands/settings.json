@@ -1,14 +1,17 @@
 {
-  "name": "settings",
-  "description": "Manage your personal settings",
-  "title": "Settings",
+  "name": "configuración",
+  "description": "Administra tus ajustes personales",
+  "title": "Enikk Profile Settings",
+  "profileDescription": "Change your Enikk profile settings here.",
+  "profileSummary": "Profile Summary",
   "language": {
-    "title": "Language",
-    "description": "Set your preferred language for bot responses.",
-    "current": "Your current language: **{{language}}**",
-    "updated": "Language set to **{{language}}**.",
-    "reset": "Language reset to server default.",
-    "selectPlaceholder": "Select your language",
-    "global": "Use server default"
+    "title": "Current Language",
+    "description": "Establece tu idioma preferido para las respuestas del bot.",
+    "current": "Tu idioma actual: **{{language}}**",
+    "updated": "Idioma establecido a **{{language}}**.",
+    "reset": "Reiniciar idioma al servidor por defecto.",
+    "selectPlaceholder": "Seleccione su idioma",
+    "global": "Usar valor por defecto del servidor",
+    "serverDefault": "Server default"
   }
 }

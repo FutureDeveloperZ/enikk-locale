@@ -1,5 +1,5 @@
 {
-	"name": "advise",
+	"name": "建议",
 	"description": "Showing all {{count}} scenarios",
 	"askNikke": "Which Nikke's advise scenarios would you like to view?",
 	"notFound": "No advise scenarios found for \"{{nikke}}\".",

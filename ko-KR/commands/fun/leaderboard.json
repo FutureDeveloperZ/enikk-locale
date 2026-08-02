@@ -1,0 +1,10 @@
+{
+	"name": "leaderboard",
+	"description": "View the minigame leaderboard",
+	"gameChoice": "The leaderboard to view",
+	"title": "{{game}} Leaderboard",
+	"selectTab": "Select a leaderboard",
+	"yourRank": "Your rank: #{{rank}} · {{wins}} total wins",
+	"noRank": "You haven't played any games yet",
+	"empty": "No games played yet. Start a game with /game to get on the leaderboard!"
+}
