@@ -1,16 +1,16 @@
 {
 	"name": "banners",
-	"description": "View current recruitment and costume banners",
-	"prefixOnly": "This command is only available as a slash command.",
-	"fetchFailed": "Failed to fetch banner data.",
-	"expired": "Banner data expired. Run `/banners` again.",
-	"noBanners": "No {{type}} banners available.",
-	"noDetails": "No details available.",
-	"ongoing": "Ongoing",
+	"description": "Ver banners de reclutamiento y disfraces actuales",
+	"prefixOnly": "¡Este comando sólo está disponible como un comando slash!",
+	"fetchFailed": "Error al obtener los datos de caracteres.",
+	"expired": "Datos de banner caducados. Ejecuta `/banners` nuevamente.",
+	"noBanners": "No hay banners {{type}} disponibles.",
+	"noDetails": "No se dispone de detalles.",
+	"ongoing": "En progreso",
 	"labels": {
-		"recruitments": "Recruitments",
-		"costumes": "Costumes",
-		"details": "Details",
-		"back": "Back"
+		"recruitments": "Reclutamientos",
+		"costumes": "Disfraces",
+		"details": "Detalles",
+		"back": "Volver"
 	}
 }
