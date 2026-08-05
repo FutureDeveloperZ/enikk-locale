@@ -1,0 +1,22 @@
+en-US/commands/account/union-raid.json
+  s_cc3de19205a27a::t_bc4bf8e1afb51f 14,16
+  s_cc3de19205a27a::t_62daf4e7ae0255 39-40
+  s_cc3de19205a27a::t_d9302ce23e9768 15
+  s_cc3de19205a27a::t_79b94ba668d442 41-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "8bcc929537d5f5dc66a6ba314bddb066f8e45110",
+  "prompts": {},
+  "sessions": {
+    "s_cc3de19205a27a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_040779199ffewQ8KMMmlhjH3ZQ",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
