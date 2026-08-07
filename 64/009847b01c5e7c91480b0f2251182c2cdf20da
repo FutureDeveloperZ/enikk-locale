@@ -1,0 +1,24 @@
+en-US/lib/searchPicker.json
+  s_5eec36a5a3f680::t_9f841173db0aba 11-13
+  s_5eec36a5a3f680::t_e61fb9d52c76d7 8
+  s_5eec36a5a3f680::t_bae63bb083bf89 1-7,9-10,14
+en-US/commands/account/union.json
+  s_5eec36a5a3f680::t_681bc8e0b880ee 10-13,17
+  s_5eec36a5a3f680::t_d01cb3445059d8 14-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "64009847b01c5e7c91480b0f2251182c2cdf20da",
+  "prompts": {},
+  "sessions": {
+    "s_5eec36a5a3f680": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_02390645cffesTMSa4PRvNfbiS",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
