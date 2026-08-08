@@ -1,0 +1,14 @@
+{
+	"title": "Search results for \"{{query}}\"",
+	"kind": {
+		"user": "Users",
+		"union": "Unions"
+	},
+	"noResults": "No results found.",
+	"noSession": "This search session has expired. Run the command again to search.",
+	"selectPlaceholder": "Select a result...",
+	"selectDetail": "Select to view",
+	"noLimit": "No limit",
+	"raidMemberLocked": "You are a member of this guild, but your account is ID-linked (not cookie-linked). Link your game cookie to view raid data.",
+	"raidNotMember": "You are not a member of this guild, so you can't view its raid data. Join the guild to view it."
+}
