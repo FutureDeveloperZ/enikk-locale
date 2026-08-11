@@ -1,0 +1,23 @@
+en-US/commands/settings.json
+  s_5eec36a5a3f680::t_34a965e74dea53 16-23
+en-US/commands/account/investment.json
+  s_5eec36a5a3f680::t_8c25c23aded3d9 3,5
+  s_5eec36a5a3f680::t_0133e03eddc2aa 1-2,6
+  s_5eec36a5a3f680::t_5583d5427c13a0 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "fa209223a81f403f17c68176dc61011d73cb7bcd",
+  "prompts": {},
+  "sessions": {
+    "s_5eec36a5a3f680": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_02390645cffesTMSa4PRvNfbiS",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
