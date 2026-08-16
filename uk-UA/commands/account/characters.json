@@ -63,5 +63,47 @@
 		"wind": "Wind",
 		"electric": "Electric",
 		"iron": "Iron"
+	},
+	"stats": {
+		"incElementDmg": {
+			"short": "Element Dmg",
+			"long": "Increased Elemental Advantage Dmg"
+		},
+		"statAtk": {
+			"short": "Atk",
+			"long": "Increased ATK"
+		},
+		"statAmmoLoad": {
+			"short": "Ammo Cap",
+			"long": "Increased Max Ammunition Capacity"
+		},
+		"statChargeTime": {
+			"short": "Charge Spd",
+			"long": "Increased Charge Speed"
+		},
+		"statChargeDamage": {
+			"short": "Charge Dmg",
+			"long": "Increased Charge Damage"
+		},
+		"statCritical": {
+			"short": "Crit Rate",
+			"long": "Increased Critical Rate"
+		},
+		"statCriticalDamage": {
+			"short": "Crit Dmg",
+			"long": "Increased Critical Damage"
+		},
+		"statDef": {
+			"short": "Def",
+			"long": "Increased DEF"
+		},
+		"statAccuracyCircle": {
+			"short": "Accuracy",
+			"long": "Increased Hit Rate"
+		},
+		"onHitRatio": {
+			"short": "Hit Rate",
+			"long": "Increased Hit Rate"
+		}
 	}
 }

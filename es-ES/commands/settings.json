@@ -13,5 +13,13 @@
     "selectPlaceholder": "Seleccione su idioma",
     "global": "Usar valor por defecto del servidor",
     "serverDefault": "Server default"
+  },
+  "investment": {
+    "title": "Investment Tracking",
+    "on": "On — tracking character changes daily",
+    "off": "Off",
+    "btnOn": "Investment Tracking: On",
+    "btnOff": "Investment Tracking: Off",
+    "failed": "Could not enable investment tracking. Make sure a BlaBlaLink account is linked and accessible."
   }
 }
