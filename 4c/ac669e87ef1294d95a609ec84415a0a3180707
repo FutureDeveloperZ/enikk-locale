@@ -1,0 +1,24 @@
+en-US/commands/fun/game.json
+  s_23f2ba6c3589cf::t_afc813acb8a7be 10-11
+en-US/lib/games/replay.json
+  s_23f2ba6c3589cf::t_fc6fd9ebaa5258 1-3
+en-US/lib/games/twoTruths.json
+  s_23f2ba6c3589cf::t_085a447d654737 3,5
+  s_23f2ba6c3589cf::t_ca58f38fab60c7 1-2,4,6-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "4cac669e87ef1294d95a609ec84415a0a3180707",
+  "prompts": {},
+  "sessions": {
+    "s_23f2ba6c3589cf": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ff7bb3d5cffeROkCPbnED2EYTI",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
