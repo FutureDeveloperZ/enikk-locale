@@ -1,0 +1,20 @@
+en-US/commands/settings.json
+  s_23f2ba6c3589cf::t_ab84c681ee1d41 13
+  s_23f2ba6c3589cf::t_d54257d2ddf56f 4-10,12,23-24,27-37,39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "04276afc52b40744d0a5d88806b810fa82eb3075",
+  "prompts": {},
+  "sessions": {
+    "s_23f2ba6c3589cf": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ff7bb3d5cffeROkCPbnED2EYTI",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
