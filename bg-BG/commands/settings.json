@@ -1,12 +1,16 @@
 {
   "name": "settings",
   "description": "Manage your personal settings",
-  "title": "Enikk Profile Settings",
-  "profileDescription": "Change your Enikk profile settings here.",
-  "profileSummary": "Profile Summary",
+  "tabs": {
+    "user": "User Settings",
+    "account": "Account Settings"
+  },
+  "tabSelect": {
+    "placeholder": "Settings"
+  },
   "language": {
-    "title": "Current Language",
-    "description": "Set your preferred language for bot responses.",
+    "title": "Language",
+    "serverDefaultHint": "Enikk will default to the server language. Some text might still be in English.",
     "current": "Your current language: **{{language}}**",
     "updated": "Language set to **{{language}}**.",
     "reset": "Language reset to server default.",
@@ -16,10 +20,20 @@
   },
   "investment": {
     "title": "Investment Tracking",
-    "on": "On — tracking character changes daily",
+    "description": "If enabled, Enikk will track investment made on your nikkes",
+    "on": "On",
     "off": "Off",
-    "btnOn": "Investment Tracking: On",
-    "btnOff": "Investment Tracking: Off",
     "failed": "Could not enable investment tracking. Make sure a BlaBlaLink account is linked and accessible."
+  },
+  "compact": {
+    "title": "Compact Character Details",
+    "description": "If enabled, character details when you do /characters will be automatically compacted",
+    "on": "On",
+    "off": "Off"
+  },
+  "account": {
+    "placeholder": "Select account",
+    "primary": "Main account",
+    "noAccount": "No BlaBlaLink account linked."
   }
 }
