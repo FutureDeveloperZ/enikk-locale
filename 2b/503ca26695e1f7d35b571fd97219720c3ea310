@@ -1,0 +1,21 @@
+en-US/commands/fun/leaderboard.json
+  s_1db1078489435d::t_325c31ba3e6af9 18
+  s_1db1078489435d::t_4bcf22333d0b5d 3,6-16
+  s_1db1078489435d::t_eec6d47a7c6630 20-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "2b503ca26695e1f7d35b571fd97219720c3ea310",
+  "prompts": {},
+  "sessions": {
+    "s_1db1078489435d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fcee91747ffeWDtXJv9O4NOcDq",
+        "model": "nvidia_nim/minimaxai/minimax-m3"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
