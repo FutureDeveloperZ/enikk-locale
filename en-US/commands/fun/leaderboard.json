@@ -1,10 +1,23 @@
 {
 	"name": "leaderboard",
-	"description": "View the minigame leaderboard",
-	"gameChoice": "The leaderboard to view",
+	"description": "View the minigame and character leaderboards",
 	"title": "{{game}} Leaderboard",
 	"selectTab": "Select a leaderboard",
+	"selectType": "Select leaderboard type",
+	"selectAxis": "Select a stat or game",
+	"minigameLeaderboard": "Minigame Leaderboard",
+	"characterLeaderboard": "Character Stats",
+	"scopeGlobal": "Global",
+	"scopeServer": "Server",
+	"scopePersonal": "Personal",
+	"previousPage": "Previous",
+	"nextPage": "Next",
+	"page": "Page {{page}}",
+	"serverOnlyInGuild": "The Server leaderboard only works inside a server.",
 	"yourRank": "Your rank: #{{rank}} · {{wins}} total wins",
+	"yourCharacterRank": "Your rank: #{{rank}}",
 	"noRank": "You haven't played any games yet",
-	"empty": "No games played yet. Start a game with /game to get on the leaderboard!"
+	"empty": "No games played yet. Start a game with /game to get on the leaderboard!",
+	"emptyMinigame": "No games played yet. Start a game with /game to get on the leaderboard!",
+	"emptyCharacter": "No character stats added yet. Search your best Nikkes with /character to be on the leaderboard."
 }
