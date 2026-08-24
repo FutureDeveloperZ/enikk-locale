@@ -1,0 +1,21 @@
+en-US/lib/games/unionRaid.json
+  s_ad9b2ac582e676::t_22ef0e0f6bc84c 1-20,22-30,34-35,41-51
+  s_ad9b2ac582e676::t_1c1e5c5a37a102 21,31-33
+  s_ad9b2ac582e676::t_2f6804e66a5514 36-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "c7f0fef95dd6f3e2d2f0d8e49d8bb6f0b3d575cf",
+  "prompts": {},
+  "sessions": {
+    "s_ad9b2ac582e676": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fcf251e32ffe6l6yJoQ1tGGXTj",
+        "model": "openai/gpt-5.6-luna"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
