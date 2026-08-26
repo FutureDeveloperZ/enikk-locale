@@ -1,0 +1,19 @@
+en-US/commands/misc/privacy.json
+  s_72395f6a2790f8::t_bd6eb9039f1cde 5-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "1e8c1087e9b6143cd03a66f894f68bad628b364b",
+  "prompts": {},
+  "sessions": {
+    "s_72395f6a2790f8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fc633464affe7KgTCDEAQWHV5P",
+        "model": "openai/gpt-5.6-luna"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
