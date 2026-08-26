@@ -8,6 +8,7 @@
 	"invalidSearch": "Please provide a valid search query.",
 	"searchNotFound": "Couldn't find any users matching **{{query}}**.",
 	"searchNoProfile": "Found **{{username}}** but they don't have a game profile.",
+	"private": "This user has enabled character privacy.",
 	"noAccount": "You don't have a BlaBlaLink account linked. Use **/blabla-link** to link one, or provide a **user_id** or **user** option.",
 	"noProfileId": "Could not find a BlaBlaLink profile with that ID.",
 	"noArea": "Could not determine this player's game area.",
