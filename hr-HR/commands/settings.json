@@ -3,6 +3,7 @@
   "description": "Manage your personal settings",
   "tabs": {
     "user": "User Settings",
+    "privacy": "Privacy Settings",
     "account": "Account Settings"
   },
   "tabSelect": {
@@ -17,6 +18,23 @@
     "selectPlaceholder": "Select your language",
     "global": "Use server default",
     "serverDefault": "Server default"
+  },
+  "privacy": {
+    "title": "Privacy",
+    "on": "Private",
+    "off": "Public",
+    "profile": {
+      "title": "BlaBlaLink Profile Privacy",
+      "description": "When enabled, other users cannot view your BlaBlaLink profile through Enikk. You can still view your own profile privately."
+    },
+    "characters": {
+      "title": "Character Privacy",
+      "description": "When enabled, other users cannot view your character roster or details through Enikk. Your character leaderboard rows remain visible with your name hidden."
+    },
+    "minigame": {
+      "title": "Minigame Privacy",
+      "description": "When enabled, your minigame leaderboard scores remain visible, but your username is hidden."
+    }
   },
   "investment": {
     "title": "Investment Tracking",
