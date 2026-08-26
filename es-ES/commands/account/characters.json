@@ -8,6 +8,7 @@
 	"invalidSearch": "Por favor, proporcione una consulta de búsqueda válida.",
 	"searchNotFound": "No se pudo encontrar ningún usuario que coincida con **{{query}}**.",
 	"searchNoProfile": "Se encontró **{{username}}** pero no tiene un perfil de juego.",
+	"private": "This user has enabled character privacy.",
 	"noAccount": "No tienes una cuenta de BlaBlaLink vinculada. Usa **/blabla-link** para vincular una, o proporciona una opción **user_id** o **user**.",
 	"noProfileId": "No se pudo encontrar un perfil de BlaLink con ese ID de usuario.",
 	"noArea": "No se pudo determinar la zona de juego de este jugador.",
