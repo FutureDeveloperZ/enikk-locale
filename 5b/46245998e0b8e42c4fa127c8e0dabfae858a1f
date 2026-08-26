@@ -1,0 +1,19 @@
+en-US/commands/help.json
+  s_72395f6a2790f8::t_b46050dccafc6d 5-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "5b46245998e0b8e42c4fa127c8e0dabfae858a1f",
+  "prompts": {},
+  "sessions": {
+    "s_72395f6a2790f8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fc633464affe7KgTCDEAQWHV5P",
+        "model": "openai/gpt-5.6-luna"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
