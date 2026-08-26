@@ -1,0 +1,23 @@
+en-US/commands/fun/feedback.json
+  s_72395f6a2790f8::t_96ca9bc84c9fc4 1-6
+en-US/lib/games/zoomWho.json
+  s_72395f6a2790f8::t_c5ee989de5e853 10-11
+en-US/lib/games/unionRaid.json
+  s_72395f6a2790f8::t_c5ee989de5e853 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "f0ea42b84076ea6d76ebaddaffc4454bdaa8737d",
+  "prompts": {},
+  "sessions": {
+    "s_72395f6a2790f8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fc633464affe7KgTCDEAQWHV5P",
+        "model": "openai/gpt-5.6-luna"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
