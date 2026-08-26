@@ -33,6 +33,7 @@
 	"burstMiss": "{{username}}'s Burst was resisted.",
 	"actionClosed": "This action is closed or the raid has ended.",
 	"alreadyActed": "You already chose an action this round.",
+	"testingFooter": "We are still testing these minigames if u got feedback please use the /feedback or join our discord server",
 	"downed": "Your NIKKE is downed and cannot act this round.",
 	"downedShort": "— DOWNED",
 	"playerHit": "{{username}} took **{{damage}}** damage.",
