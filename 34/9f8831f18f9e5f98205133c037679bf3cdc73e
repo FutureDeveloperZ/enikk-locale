@@ -1,0 +1,19 @@
+en-US/commands/fun/leaderboard.json
+  s_922b96042943e7::t_d7c4c9cc93ad7d 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "349f8831f18f9e5f98205133c037679bf3cdc73e",
+  "prompts": {},
+  "sessions": {
+    "s_922b96042943e7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d0374973-172d-48b6-b84f-142649daf6b6",
+        "model": "minimax/minimax-m3:free"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
