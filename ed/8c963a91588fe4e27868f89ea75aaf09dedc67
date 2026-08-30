@@ -1,0 +1,19 @@
+en-US/commands/account/link.json
+  s_9ada85b2c22d55::t_afdb09073064da 5-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "ed8c963a91588fe4e27868f89ea75aaf09dedc67",
+  "prompts": {},
+  "sessions": {
+    "s_9ada85b2c22d55": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5a1f6ad-1007-4c78-a2ca-43c5401d5e29",
+        "model": "minimax/minimax-m3:free"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
