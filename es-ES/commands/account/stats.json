@@ -1,0 +1,5 @@
+{
+  "name": "stats",
+  "description": "View a NIKKE's stats for a player",
+  "prefixOnly": "Use /stats nikke:<name> to view a character's stats."
+}
