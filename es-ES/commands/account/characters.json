@@ -17,7 +17,7 @@
 	"noGameAccount": "No se pudo cargar los datos del personaje — {{msg}}",
 	"loadFailed": "Error al recuperar los datos de asistencia. Inténtalo de nuevo más tarde.",
 	"noCookie": "No se pudo cargar los datos de los caracteres. Vincula tu cuenta con `/blabla-link` para ver las listas, o proporciona un `user_id` válido.",
-	"sessionExpired": "Sesión caducada. Utilice /characters nuevamente.",
+	"sessionExpired": "Your session expired. Showing data from the bot's account.",
 	"noCharacters": "No hay caracteres para mostrar.",
 	"rosterDesc": "Roster de {{nickname}}, {{count}} caracteres",
 	"rosterTitle": "Roster de NIKKE",
