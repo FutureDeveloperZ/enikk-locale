@@ -1,0 +1,12 @@
+{
+  "name": "status",
+  "description": "Show bot status and statistics",
+  "servers": "Servers",
+  "users": "Users",
+  "ping": "Ping",
+  "version": "Version",
+  "developers": "Developers",
+  "server": "Server",
+  "website": "Website",
+  "invite": "Invite"
+}
