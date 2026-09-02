@@ -1,0 +1,19 @@
+en-US/commands/admin.json
+  s_73f1e8e1f45361::t_c88505d9ba1cb8 11-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "e6192ba80868aa8c12585a79973358340f64abe6",
+  "prompts": {},
+  "sessions": {
+    "s_73f1e8e1f45361": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f9ba40ce3ffeT6MvRxZDudebvV",
+        "model": "wolf-ai"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
