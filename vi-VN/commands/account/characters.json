@@ -17,7 +17,7 @@
 	"noGameAccount": "Could not load character data — {{msg}}",
 	"loadFailed": "Failed to load character data. Please try again later.",
 	"noCookie": "Could not load character data. Link your account with `/blabla-link` to view rosters, or provide a valid `user_id`.",
-	"sessionExpired": "Session expired. Use /characters again.",
+	"sessionExpired": "Your session expired. Showing data from the bot's account.",
 	"noCharacters": "No characters to display.",
 	"rosterDesc": "{{nickname}}'s Roster — {{count}} characters",
 	"rosterTitle": "NIKKE Roster",
