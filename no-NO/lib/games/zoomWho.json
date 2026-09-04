@@ -7,5 +7,6 @@
 	"correct": "Hurray <@{{userId}}> did it! 🎉",
 	"reveal": "The answer was **{{name}}**",
 	"score": "{{seconds}}s · +{{points}} pts",
-	"timeUp": "⏰ Time's up!"
+	"timeUp": "⏰ Time's up!",
+	"testingFooter": "We are still testing these minigames if u got feedback please use the /feedback or join our discord server"
 }

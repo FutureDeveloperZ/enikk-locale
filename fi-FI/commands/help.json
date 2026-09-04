@@ -2,9 +2,13 @@
 	"name": "help",
 	"description": "View available commands by category",
 	"title": "Enikk Help",
-	"selectCategory": "Select a category to view commands.",
+	"directory": "Help Directory",
+	"directoryDescription": "Select a category from the dropdown to view commands specific to that category.",
+	"categories": "Available categories:",
+	"inviteButton": "Invite Bot",
+	"websiteButton": "Website",
+	"noCommands": "No commands are available in this category.",
 	"categoryHeader": "Commands in **{{category}}**",
-	"categoryHeaderWithCommands": "Commands in **{{category}}**\n\n{{commands}}",
 	"selectPlaceholder": "Select a category",
 	"optionDescription": "View {{category}} commands"
 }

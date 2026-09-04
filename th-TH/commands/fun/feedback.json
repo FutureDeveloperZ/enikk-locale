@@ -1,0 +1,6 @@
+{
+	"slashOnly": "Use `/feedback` to send feedback to the developers.",
+	"unavailable": "The feedback service is not configured right now.",
+	"failed": "Your feedback could not be sent. Please try again later.",
+	"sent": "Your feedback was sent to the developers. Thank you!"
+}

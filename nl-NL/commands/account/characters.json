@@ -8,6 +8,7 @@
 	"invalidSearch": "Geef een geldige zoekopdracht op.",
 	"searchNotFound": "Kon geen gebruikers vinden die overeenkomen met **{{query}}**.",
 	"searchNoProfile": "Gevonden **{{username}}** maar ze hebben geen spel profiel.",
+	"private": "This user has enabled character privacy.",
 	"noAccount": "Je hebt geen BlaBlaLink account gekoppeld. Gebruik **/blablabla-link** om er een te koppelen of geef een **user_id** of **gebruiker** optie.",
 	"noProfileId": "Kon geen BlaBlaLink-profiel vinden met dat gebruikers-ID.",
 	"noArea": "Kon het spelgebied van deze speler niet bepalen.",
@@ -16,7 +17,7 @@
 	"noGameAccount": "Could not load character data — {{msg}}",
 	"loadFailed": "Failed to load character data. Please try again later.",
 	"noCookie": "Could not load character data. Link your account with `/blabla-link` to view rosters, or provide a valid `user_id`.",
-	"sessionExpired": "Session expired. Use /characters again.",
+	"sessionExpired": "Your session expired. Showing data from the bot's account.",
 	"noCharacters": "No characters to display.",
 	"rosterDesc": "{{nickname}}'s Roster — {{count}} characters",
 	"rosterTitle": "NIKKE Roster",
@@ -63,5 +64,47 @@
 		"wind": "Wind",
 		"electric": "Electric",
 		"iron": "Iron"
+	},
+	"stats": {
+		"incElementDmg": {
+			"short": "Element Dmg",
+			"long": "Increased Elemental Advantage Dmg"
+		},
+		"statAtk": {
+			"short": "Atk",
+			"long": "Increased ATK"
+		},
+		"statAmmoLoad": {
+			"short": "Ammo Cap",
+			"long": "Increased Max Ammunition Capacity"
+		},
+		"statChargeTime": {
+			"short": "Charge Spd",
+			"long": "Increased Charge Speed"
+		},
+		"statChargeDamage": {
+			"short": "Charge Dmg",
+			"long": "Increased Charge Damage"
+		},
+		"statCritical": {
+			"short": "Crit Rate",
+			"long": "Increased Critical Rate"
+		},
+		"statCriticalDamage": {
+			"short": "Crit Dmg",
+			"long": "Increased Critical Damage"
+		},
+		"statDef": {
+			"short": "Def",
+			"long": "Increased DEF"
+		},
+		"statAccuracyCircle": {
+			"short": "Accuracy",
+			"long": "Increased Hit Rate"
+		},
+		"onHitRatio": {
+			"short": "Hit Rate",
+			"long": "Increased Hit Rate"
+		}
 	}
 }
