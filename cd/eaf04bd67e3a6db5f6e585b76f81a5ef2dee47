@@ -1,0 +1,25 @@
+en-US/commands/config.json
+  s_5a03bb431c5f74::t_2039515ca87a88 47
+  s_5a03bb431c5f74::t_2d1d617781157f 43,48-50
+  s_5a03bb431c5f74::t_f86c670387531f 42,44-46,51
+en-US/services/ark.json
+  s_5a03bb431c5f74::t_4bbb5661d820ec 3-6
+  s_5a03bb431c5f74::t_4c252aacd3278f 1,10
+  s_5a03bb431c5f74::t_96a7973f31bcb6 2,7-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "cdeaf04bd67e3a6db5f6e585b76f81a5ef2dee47",
+  "prompts": {},
+  "sessions": {
+    "s_5a03bb431c5f74": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f93c3fdc6ffe7EGucF5BISEhUN",
+        "model": "wolf-ai"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
