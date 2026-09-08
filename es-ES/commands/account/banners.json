@@ -5,7 +5,7 @@
 	"fetchFailed": "Error al obtener los datos de caracteres.",
 	"expired": "Datos de banner caducados. Ejecuta `/banners` nuevamente.",
 	"noBanners": "No hay banners {{type}} disponibles.",
-	"noDetails": "No se dispone de detalles.",
+	"noDetails": "No hay detalles disponibles.",
 	"ongoing": "En progreso",
 	"labels": {
 		"recruitments": "Reclutamientos",
