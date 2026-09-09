@@ -1,8 +1,8 @@
 {
 	"name": "blabla-link",
-	"description": "Link your BlaBlaLink account to your Discord account",
-	"prefixOnly": "Use /blabla-link to link your BlaBlaLink account.",
-	"panelDescription": "Account linking happens on the web panel. Click below to open it.",
+	"description": "Conecta tu cuenta de BlaBlaLink con la de Discord",
+	"prefixOnly": "Utiliza /blabla-link para conectar tu cuenta de BlaBlaLink.",
+	"panelDescription": "La vinculación ocurre en el panel web. Cliquea abajo para abrirlo.",
 	"panelButton": "Open link panel",
 	"panelUrlMissing": "The web panel is not configured. Ask the bot owner to set `PANEL_URL`."
 }
