@@ -2,5 +2,12 @@
 	"name": "nikke",
 	"description": "Look up a character image from NKAS",
 	"notFound": "Couldn't find any character matching **{{query}}**.",
-	"viewInViewer": "View in NKAS Viewer"
+	"viewInViewer": "View in NKAS Viewer",
+	"poseFallback": "This character doesn't have a **{{requested}}** animation — showing **Idle** instead.",
+	"renderFailed": "Couldn't render the animated viewer for this character. Showing the static image instead.",
+	"poses": {
+		"idle": "Idle",
+		"aim": "Aim",
+		"cover": "Cover"
+	}
 }
