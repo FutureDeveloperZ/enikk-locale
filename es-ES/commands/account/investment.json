@@ -1,6 +1,6 @@
 {
-  "button": "Investment History",
-  "historyTitle": "**Investment History**",
-  "noChanges": "No investment changes recorded yet",
-  "noChangesHint": "The first observation becomes the baseline; later changed builds appear here."
+  "button": "Historial de Mejoras",
+  "historyTitle": "**Historial de Mejoras**",
+  "noChanges": "No hay cambios de mejoras registrados aún",
+  "noChangesHint": "El primer registro se vuelve la base. Luego, los siguientes cambios aparecen aquí."
 }
