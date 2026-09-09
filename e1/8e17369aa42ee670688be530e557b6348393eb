@@ -1,0 +1,19 @@
+en-US/commands/fun/gallery.json
+  s_08e9b0bb20e74a::t_755c72f5f41fea 1-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "e18e17369aa42ee670688be530e557b6348393eb",
+  "prompts": {},
+  "sessions": {
+    "s_08e9b0bb20e74a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f79f3e970ffeRO22vlpDGLG0Gs",
+        "model": "wolf-ai"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
