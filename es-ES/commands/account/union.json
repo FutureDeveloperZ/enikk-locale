@@ -1,36 +1,36 @@
 {
-	"name": "union",
-	"description": "View your guild info and member synchronizer",
-	"prefixOnly": "Use /union to look up guild info.",
-	"noArea": "Could not determine your game server area. Make sure you have a valid BlaBlaLink session.",
-	"noGuild": "You are not in a guild.",
-	"guildRank": "Rank: **{{rank}}**",
-	"ranking": "Ranking #{{num}}",
-	"membersLabel": "{{count}}/{{max}} Members",
+	"name": "unión",
+	"description": "Consulta información sobre tu unión y el synchro de los miembros",
+	"prefixOnly": "Utiliza /unión para consultar información sobre uniones.",
+	"noArea": "No se pudo determinar tu área de servidor. Asegúrate de que tengas una sesión de BlaBlaLink válida.",
+	"noGuild": "No estás en una unión.",
+	"guildRank": "Rango: **{{rank}}**",
+	"ranking": "Rango #{{num}}",
+	"membersLabel": "{{count}} de {{max}} miembros",
 	"filterLabels": {
-		"area": "Server",
-		"rank": "Rank",
+		"area": "Servidor",
+		"rank": "Rango",
 		"top": "Top %",
-		"synchro": "Synchro Level",
-		"synchroMin": "Min sync level",
-		"synchroMax": "Max sync level"
+		"synchro": "Nivel de Synchro",
+		"synchroMin": "Nivel de sync mínimo",
+		"synchroMax": "Nivel de sync máximo"
 	},
 	"fields": {
-		"description": "Description",
-		"guildInfo": "Guild Info",
-		"synchroDistribution": "📊 Synchro Distribution (avg. Level: {{avg}})",
-		"members": "👥 Members ({{count}})"
+		"description": "Descripción",
+		"guildInfo": "Información de Unión",
+		"synchroDistribution": "📊 Distribución de Synchro (Nivel Promedio: {{avg}})",
+		"members": "👥 Miembros ({{count}})"
 	},
 	"infoLines": {
-		"activity": "Activity: **{{value}}**",
-		"locale": "Locale: **{{value}}**",
-		"entryLevel": "Entry Level: **{{value}}**",
-		"joinType": "Join Type: **{{value}}**",
-		"yourRole": "Your Role: **{{value}}**",
-		"raidReq": "Raid Req: **{{value}}**",
-		"activityReq": "Activity Req: **{{value}}**",
-		"avgSynchroRank": "Avg Synchro Rank: **#{{value}}**",
-		"totalSynchro": "Total Synchro: **{{value}}**"
+		"activity": "Actividad: **{{value}}**",
+		"locale": "Lenguaje: **{{value}}**",
+		"entryLevel": "Nivel de Entrada: **{{value}}**",
+		"joinType": "Tipo de Admisión: **{{value}}**",
+		"yourRole": "Tu Rol: **{{value}}**",
+		"raidReq": "Requerimientos de Raid: **{{value}}**",
+		"activityReq": "Requerimientos de Actividad: **{{value}}**",
+		"avgSynchroRank": "Rango de Synchro Promedio: **#{{value}}**",
+		"totalSynchro": "Synchro Total: **{{value}}**"
 	},
-	"memberLine": "{{index}}. **{{nickname}}** — Lv.{{level}} · Sync **{{synchro}}**"
+	"memberLine": "{{index}}. **{{nickname}}** — Nv. {{level}} · Sync **{{synchro}}**"
 }
