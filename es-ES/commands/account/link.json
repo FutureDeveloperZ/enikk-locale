@@ -3,6 +3,6 @@
 	"description": "Conecta tu cuenta de BlaBlaLink con la de Discord",
 	"prefixOnly": "Utiliza /blabla-link para conectar tu cuenta de BlaBlaLink.",
 	"panelDescription": "La vinculación ocurre en el panel web. Cliquea abajo para abrirlo.",
-	"panelButton": "Open link panel",
-	"panelUrlMissing": "The web panel is not configured. Ask the bot owner to set `PANEL_URL`."
+	"panelButton": "Abrir panel",
+	"panelUrlMissing": "El panel no está configurado. Avisa al dueño del bot que fije `PANEL_URL`."
 }
