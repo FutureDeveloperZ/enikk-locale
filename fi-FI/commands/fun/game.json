@@ -7,5 +7,6 @@
 	"joined": "You joined the game!",
 	"alreadyIn": "You're already in the game.",
 	"noSession": "No active game session found.",
-	"hostOnly": "Only the host can cancel the game."
+	"hostOnly": "Only the host can cancel the game.",
+	"gameInProgress": "A game is already running in this channel. Wait for it to end before starting a new one."
 }

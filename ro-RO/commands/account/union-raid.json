@@ -11,6 +11,9 @@
 	"dataNotAvailableDesc": "Raid data for past seasons is only accessible to current guild members. Join the guild to view this season's details.",
 	"fetchFailed": "Could not fetch season data.",
 	"noParticipants": "There's Nothing to Show here.",
+	"memberTitle": "Member Squad",
+	"attemptPage": "Attempt {{current}} of {{total}}",
+	"attemptsLabel": "{{count}} attempts",
 	"dayLabel": "Day {{day}}",
 	"allEntries": "All Entries",
 	"filteredResults": "Filtered Results",
@@ -33,6 +36,9 @@
 		"selectDay": "Select a day...",
 		"difficulty": "Difficulty",
 		"level": "Level",
-		"bossFilter": "Boss"
+		"bossFilter": "Boss",
+		"member": "Member (page {{page}})",
+		"memberAll": "All Members",
+		"attempt": "Select attempt... (page {{page}})"
 	}
 }

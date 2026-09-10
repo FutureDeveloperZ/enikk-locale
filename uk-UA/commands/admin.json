@@ -8,5 +8,14 @@
 		"cleared": "Cleared {{deleted}} emoji(s)",
 		"clearedWithFailed": "Cleared {{deleted}} emoji(s) ({{failed}} failed)",
 		"restartNote": "Restart the bot to re-upload from local assets."
+	},
+	"eval": {
+		"name": "eval",
+		"description": "Run arbitrary JavaScript in the bot (owner only). Use the prefix form: Enikk eval <code>.",
+		"slashOnly": "This command is only available as a prefix command.",
+		"notOwner": "Only bot owners can use this command.",
+		"noCode": "Provide code after the eval command.",
+		"tooLong": "Code exceeds the {{max}} character limit.",
+		"blocked": "Blocked: the code references `{{token}}`, which is not allowed."
 	}
 }

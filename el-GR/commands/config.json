@@ -39,6 +39,16 @@
     "enabled": "BlaBlaLink embeds are now enabled.",
     "disabled": "BlaBlaLink embeds are now disabled."
   },
+  "ark": {
+    "title": "Daily Announcements",
+    "description": "Daily event overview posted to a chosen channel.",
+    "channel": "Announcement Channel",
+    "unset": "Not configured",
+    "selectPlaceholder": "Select an announcement channel",
+    "test": "Send Test Announcements",
+    "testSuccess": "Test Daily Announcement sent successfully.",
+    "testFail": "Failed to send test announcements. Check channel permissions or webhook access."
+  },
   "prefix": {
     "title": "Prefix",
     "description": "Change the bot's command prefix",

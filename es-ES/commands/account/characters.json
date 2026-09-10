@@ -1,52 +1,53 @@
 {
-	"name": "characters",
-	"description": "View a player's NIKKE character roster",
-	"prefixOnly": "Use /characters to view a player's roster.",
-	"invalidUserId": "Invalid user ID. Please enter the numeric ID from your BlaBlaLink profile.",
-	"noProfile": "Could not find a BlaBlaLink profile with that user ID.",
-	"noTargetAccount": "<@{{user}}> doesn't have a BlaBlaLink account linked.",
-	"invalidSearch": "Please provide a valid search query.",
-	"searchNotFound": "Couldn't find any users matching **{{query}}**.",
-	"searchNoProfile": "Found **{{username}}** but they don't have a game profile.",
-	"noAccount": "You don't have a BlaBlaLink account linked. Use **/blabla-link** to link one, or provide a **user_id** or **user** option.",
-	"noProfileId": "Could not find a BlaBlaLink profile with that ID.",
-	"noArea": "Could not determine this player's game area.",
-	"loading": "Loading infographic... {{emoji}}",
-	"shiftyPadPrivate": "Could not load character data — the player's ShiftyPad privacy is set to private. Ask them to set their [ShiftyPad visibility](https://www.blablalink.com/setting/shiftyspad/private) to **Visible to all**.",
-	"noGameAccount": "Could not load character data — {{msg}}",
-	"loadFailed": "Failed to load character data. Please try again later.",
-	"noCookie": "Could not load character data. Link your account with `/blabla-link` to view rosters, or provide a valid `user_id`.",
-	"sessionExpired": "Session expired. Use /characters again.",
-	"noCharacters": "No characters to display.",
-	"rosterDesc": "{{nickname}}'s Roster — {{count}} characters",
-	"rosterTitle": "NIKKE Roster",
-	"notInRoster": "**{{name}}** is not in this player's roster.",
-	"charNotFound": "Could not find a NIKKE named **{{name}}**.",
-	"detailLoadFailed": "Could not load details for **{{name}}**. The player may not own this NIKKE.",
-	"detailNotFound": "Could not load details for **{{name}}**.",
-	"shiftyPadPrivateDetail": "Could not load character data — the player's ShiftyPad privacy is set to private.",
-	"invalidPage": "Invalid page number. Enter a number between 1 and {{total}}.",
-	"pageJumpTitle": "Jump to Page",
-	"pageLabel": "Page (1-{{total}})",
+	"name": "personajes",
+	"description": "Ver la lista de personajes de NIKKE de un jugador",
+	"prefixOnly": "Usa /characters para ver la lista de personajes de un jugador.",
+	"invalidUserId": "ID de usuario no válido. Por favor, introduzca el ID numérico de tu perfil de BlaBlaLink.",
+	"noProfile": "No se pudo encontrar un perfil de BlaBlaLink con ese ID de usuario.",
+	"noTargetAccount": "<@{{user}}> no tiene una cuenta de BlaBlaLink vinculada.",
+	"invalidSearch": "Por favor, proporciona una consulta de búsqueda válida.",
+	"searchNotFound": "No se pudo encontrar ningún usuario que coincida con **{{query}}**.",
+	"searchNoProfile": "Se encontró a **{{username}}**, pero no tiene un perfil de juego asociado.",
+	"private": "Este usuario ha habilitado la privacidad de personajes.",
+	"noAccount": "No tienes una cuenta de BlaBlaLink vinculada. Usa **/blabla-link** para vincular una, o utiliza los argumentos **user_id** o **user**.",
+	"noProfileId": "No se pudo encontrar un perfil de BlaBlaLink con ese ID.",
+	"noArea": "No se pudo determinar la zona de juego de este jugador.",
+	"loading": "Cargando gráficos... {{emoji}}",
+	"shiftyPadPrivate": "No se pudo cargar los datos de personaje — la visibilidad de ShiftyPad de este jugador está configurada como privada. Pídeles que editen su [visibilidad de ShiftyPad](https://www.blablalink.com/setting/shiftyspad/private) a **Visible para todos**.",
+	"noGameAccount": "No se pudo cargar los datos del personaje — {{msg}}",
+	"loadFailed": "Error al cargar los datos de personaje. Inténtalo de nuevo más tarde.",
+	"noCookie": "No se pudo cargar los datos de personaje. Vincula tu cuenta con `/blabla-link` para ver las listas, o proporciona un `user_id` válido.",
+	"sessionExpired": "Tu sesión ha expirado. Mostrando información desde la cuenta del bot.",
+	"noCharacters": "No hay personajes para mostrar.",
+	"rosterDesc": "Lista de personajes de {{nickname}}, {{count}} personajes",
+	"rosterTitle": "Lista de personajes de NIKKE",
+	"notInRoster": "**{{name}}** no está en entre los personajes de este jugador.",
+	"charNotFound": "No se pudo encontrar una Nikke llamada **{{name}}**.",
+	"detailLoadFailed": "No se pudo cargar los detalles de **{{name}}**. El jugador podría no tener esta Nikke.",
+	"detailNotFound": "No se pudo cargar los detalles de **{{name}}**.",
+	"shiftyPadPrivateDetail": "No se pudo cargar los datos de personaje — la privacidad de ShiftyPad del jugador está configurada como privada.",
+	"invalidPage": "Número de página no válido. Introduzca un número entre 1 y {{total}}.",
+	"pageJumpTitle": "Ir a la Página",
+	"pageLabel": "Página (1-{{total}})",
 	"labels": {
-		"sortBy": "Sort by...",
-		"filter": "Filter...",
+		"sortBy": "Ordenar por...",
+		"filter": "Filtrar...",
 		"desc": "▼ Desc",
 		"asc": "▲ Asc",
-		"details": "Details",
-		"back": "Back"
+		"details": "Detalles",
+		"back": "Volver"
 	},
 	"sort": {
-		"power": "Power",
-		"level": "Level",
-		"limitbreak": "Limit Break",
-		"rarity": "Rarity"
+		"power": "Poder",
+		"level": "Nivel",
+		"limitbreak": "Copias",
+		"rarity": "Rareza"
 	},
 	"filters": {
-		"all": "All",
-		"attacker": "Attacker",
-		"defender": "Defender",
-		"supporter": "Supporter",
+		"all": "Todos",
+		"attacker": "Atacante",
+		"defender": "Defensor/a",
+		"supporter": "Ayudante",
 		"elysion": "Elysion",
 		"missilis": "Missilis",
 		"tetra": "Tetra",
@@ -58,10 +59,52 @@
 		"mg": "MG",
 		"rl": "RL",
 		"sg": "SG",
-		"fire": "Fire",
-		"water": "Water",
-		"wind": "Wind",
-		"electric": "Electric",
-		"iron": "Iron"
+		"fire": "Fuego",
+		"water": "Agua",
+		"wind": "Viento",
+		"electric": "Eléctrico",
+		"iron": "Hierro"
+	},
+	"stats": {
+		"incElementDmg": {
+			"short": "Daño Elemental",
+			"long": "Daño elemental aumentado"
+		},
+		"statAtk": {
+			"short": "Atk",
+			"long": "ATK aumentado"
+		},
+		"statAmmoLoad": {
+			"short": "Munición máxima",
+			"long": "Capacidad máxima de munición aumentada"
+		},
+		"statChargeTime": {
+			"short": "Vel. de carga",
+			"long": "Velocidad de carga aumentada"
+		},
+		"statChargeDamage": {
+			"short": "Daño de carga",
+			"long": "Daño de carga aumentado"
+		},
+		"statCritical": {
+			"short": "Prob. de crítico",
+			"long": "Probabilidad de golpe crítico aumentada"
+		},
+		"statCriticalDamage": {
+			"short": "Daño de crítico",
+			"long": "Daño de golpe crítico aumentado"
+		},
+		"statDef": {
+			"short": "Def",
+			"long": "Defensa aumentada"
+		},
+		"statAccuracyCircle": {
+			"short": "Precisión",
+			"long": "Rapidez de ataque aumentada"
+		},
+		"onHitRatio": {
+			"short": "Vel. de ataque",
+			"long": "Rapidez de ataque aumentada"
+		}
 	}
 }

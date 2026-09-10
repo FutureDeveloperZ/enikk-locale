@@ -7,6 +7,14 @@
 	"guildRank": "Rank: **{{rank}}**",
 	"ranking": "Ranking #{{num}}",
 	"membersLabel": "{{count}}/{{max}} Members",
+	"filterLabels": {
+		"area": "Server",
+		"rank": "Rank",
+		"top": "Top %",
+		"synchro": "Synchro Level",
+		"synchroMin": "Min sync level",
+		"synchroMax": "Max sync level"
+	},
 	"fields": {
 		"description": "Description",
 		"guildInfo": "Guild Info",
