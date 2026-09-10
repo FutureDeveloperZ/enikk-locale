@@ -1,14 +1,14 @@
 {
-	"name": "gallery",
-	"description": "Browse in-game event scenes",
+	"name": "galería",
+	"description": "Explora escenas del juego",
 	"options": {
 		"event": {
-			"name": "event",
-			"description": "Event / album to browse"
+			"name": "evento",
+			"description": "Evento o álbum a explorar"
 		}
 	},
-	"fetchError": "Failed to fetch gallery data. Try again later.",
-	"notFound": "No album found for **{{event}}**.",
-	"empty": "**{{event}}** has no scenes.",
-	"sessionExpired": "This gallery session has expired. Run /gallery again."
+	"fetchError": "Error al extraer datos de galería. Inténtalo más tarde.",
+	"notFound": "No se encontró un álbum para **{{event}}**.",
+	"empty": "**{{event}}** no tiene escenas.",
+	"sessionExpired": "Esta sesión de galería ha expirado. Utiliza /galería de nuevo."
 }
