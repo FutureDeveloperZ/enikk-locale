@@ -1,12 +1,12 @@
 {
-	"name": "news",
-	"description": "Fetch latest NIKKE news",
-	"useSlashCommand": "Use /news to view the latest NIKKE news.",
-	"fetchError": "Could not fetch news at this time.",
-	"latestNews": "## Latest NIKKE News",
-	"views": "{{count}} views",
-	"openButton": "Open",
-	"articleError": "Could not load article. Please try opening it again.",
-	"articleFetchError": "Failed to load article.",
-	"timestampViews": "{{timestamp}} · {{views}} views"
+	"name": "novedades",
+	"description": "Consulta las últimas novedades de NIKKE",
+	"useSlashCommand": "Utiliza /novedades para ver las últimas novedades de NIKKE.",
+	"fetchError": "No se pueden obtener las noticias en este momento.",
+	"latestNews": "## Últimas novedades de NIKKE",
+	"views": "{{count}} vistas",
+	"openButton": "Abrir",
+	"articleError": "No se pudo cargar el artículo. Por favor intenta abrirlo de nuevo.",
+	"articleFetchError": "Error al cargar el artículo.",
+	"timestampViews": "{{timestamp}} · {{views}} vistas"
 }
