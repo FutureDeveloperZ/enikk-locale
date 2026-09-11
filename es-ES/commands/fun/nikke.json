@@ -1,10 +1,10 @@
 {
 	"name": "nikke",
-	"description": "Look up a character image from NKAS",
-	"notFound": "Couldn't find any character matching **{{query}}**.",
-	"viewInViewer": "View in NKAS Viewer",
-	"poseFallback": "This character doesn't have a **{{requested}}** animation — showing **Idle** instead.",
-	"renderFailed": "Couldn't render the animated viewer for this character. Showing the static image instead.",
+	"description": "Busca una imagen de personaje desde NKAS",
+	"notFound": "No se pudo encontrar a ningún personaje que coincida con **{{query}}**.",
+	"viewInViewer": "Ver en NKAS",
+	"poseFallback": "Este personaje no tiene una animación **{{requested}}** — mostrando **Idle**.",
+	"renderFailed": "No se pudo renderizar la visualización animada de este personaje. Mostrando la imagen estática.",
 	"poses": {
 		"idle": "Idle",
 		"aim": "Aim",
