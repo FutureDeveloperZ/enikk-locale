@@ -14,11 +14,11 @@
 	"nextPage": "Siguiente",
 	"page": "Página {{page}}",
 	"serverOnlyInGuild": "La clasificación de servidores solo funciona dentro de chats de servidor.",
-	"serverScopeDisabled": "The Server leaderboard is temporarily unavailable while we wait on Discord to approve the Server Members intent. Please check back later.",
-	"yourRank": "Your rank: #{{rank}} · {{wins}} total wins",
-	"yourCharacterRank": "Your rank: #{{rank}}",
-	"noRank": "You haven't played any games yet",
-	"empty": "No games played yet. Start a game with /game to get on the leaderboard!",
-	"emptyMinigame": "No games played yet. Start a game with /game to get on the leaderboard!",
-	"emptyCharacter": "No character stats added yet. Search your best Nikkes with /character to be on the leaderboard."
+	"serverScopeDisabled": "La clasificación de servidores temporalmente no estará disponible mientras se espera que Discord apruebe los Intents de \"Miembros de Servidor\". Por favor comprueba más tarde.",
+	"yourRank": "Tu rango: #{{rank}} · {{wins}} victorias totales",
+	"yourCharacterRank": "Tu rango: #{{rank}}",
+	"noRank": "No has jugado a ningún minijuego aún",
+	"empty": "No hay partidas jugadas aún. ¡Inicia un minijuego con /jugar para entrar en la tabla de clasificación!",
+	"emptyMinigame": "No hay partidas jugadas aún. ¡Inicia un minijuego con /jugar para entrar en la tabla de clasificación!",
+	"emptyCharacter": "No se agregaron estadísticas de personajes aún. Consulta tus mejores Nikkes con /personajes para entrar en la clasificación."
 }
