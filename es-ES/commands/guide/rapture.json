@@ -1,12 +1,12 @@
 {
 	"name": "rapture",
-	"description": "Look up a Rapture from the Beastiary",
-	"askName": "Which Rapture would you like to look up?",
-	"notFoundQuery": "Couldn't find any Rapture matching **{{query}}**.",
-	"notFoundData": "Could not find that Rapture's data.",
-	"skillsTitle": "Skills — {{element}}",
-	"elements": "**Elements:** {{elements}}",
-	"weapon": "Weapon: {{weapon}}",
-	"type": "Type: {{type}}",
-	"target": "Target: {{target}}"
+	"description": "Consulta un Rapture del Bestiario",
+	"askName": "¿Qué Rapture te gustaría buscar?",
+	"notFoundQuery": "No se pudo encontrar a ningún Rapture que coincida con **{{query}}**.",
+	"notFoundData": "No se pudo encontrar información de ese Rapture.",
+	"skillsTitle": "Habilidades — {{element}}",
+	"elements": "**Elementos:** {{elements}}",
+	"weapon": "Arma: {{weapon}}",
+	"type": "Tipo: {{type}}",
+	"target": "Objetivo: {{target}}"
 }
