@@ -1,0 +1,28 @@
+{
+	"title": "Tower Overview",
+	"unknownBoss": "Unknown Boss",
+	"updatedAt": "Updated",
+	"embed": {
+		"title": "{{name}}",
+		"boss": "Boss: {{boss}}",
+		"unknownBoss": "No boss data",
+		"stageElement": "Element",
+		"weakElement": "Weak to",
+		"effectiveRange": "Effective Range",
+		"close": "Close",
+		"mid": "Mid",
+		"far": "Far",
+		"recommendedPower": "Recommended Power",
+		"destroy": "Destroy in {{time}}",
+		"rewardsHeader": "Rewards",
+		"rewardsField": "Rewards",
+		"noRewards": "No rewards",
+		"wavesField": "Waves",
+		"waveLabel": "Wave {{number}} ({{count}})",
+		"nextReset": "Next reset: {{time}} ({{relative}})",
+		"countdown": "Resets in {{time}}",
+		"scheduleTitle": "Weekly Schedule",
+		"noteTitle": "Note",
+		"noteValue": "Resets daily at {{hour}}:00 UTC"
+	}
+}
