@@ -49,6 +49,18 @@
     "testSuccess": "Test Daily Announcement sent successfully.",
     "testFail": "Failed to send test announcements. Check channel permissions or webhook access."
   },
+  "tower": {
+    "title": "Tower Overview",
+    "description": "Live tower overview updated every 30s via webhook.",
+    "channel": "Tower Channel",
+    "unset": "Not configured",
+    "selectPlaceholder": "Select a tower announcement channel",
+    "test": "Send Test Tower Overview",
+    "testSuccess": "Test Tower Overview sent successfully.",
+    "testFail": "Failed to send test tower overview. Check channel permissions or webhook access.",
+    "enabled": "Enabled",
+    "disabled": "Disabled"
+  },
   "prefix": {
     "title": "Prefix",
     "description": "Change the bot's command prefix",
