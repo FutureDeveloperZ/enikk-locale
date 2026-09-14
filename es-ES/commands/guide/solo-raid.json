@@ -1,6 +1,6 @@
 {
 	"name": "solo-raid",
-	"description": "Rankings de Solo raids, equipos y usos de personaje",
+	"description": "Clasificaciones de Solo raids, equipos y usos de personaje",
 	"useSlashCommand": "Este comando solo puede utilizarse como un comando slash.",
 	"fetchErrorLeaderboard": "Error al obtener clasificaciones de solo raid: {{msg}}",
 	"fetchErrorTeams": "Error al obtener equipos de solo raid: {{msg}}",
@@ -14,7 +14,7 @@
 		"title": "⚔️Rangos de Solo Raid — Raid {{raid}}",
 		"description": "Clasificación ELO · {{server}}",
 		"noDataName": "Sin datos",
-		"noDataValue": "No hay rankings disponibles para este servidor.",
+		"noDataValue": "No hay clasificaciones disponibles para este servidor.",
 		"fieldName": "🏆 Mejores Jugadores"
 	},
 	"teamsTab": {
@@ -29,20 +29,20 @@
 		"description": "Por frecuencia de uso",
 		"noDataName": "Sin datos",
 		"noDataValue": "No hay datos de uso de personaje disponibles para esta raid.",
-		"fieldName": "👑 Character Usage"
+		"fieldName": "👑 Uso de Personaje"
 	},
 	"sortButtons": {
-		"count": "📈 Usage",
-		"maxdmg": "💥 Max DMG",
-		"avgdmg": "📊 Avg DMG"
+		"count": "📈 Uso",
+		"maxdmg": "💥 Daño MÁX",
+		"avgdmg": "📊 Daño Promedio"
 	},
 	"tabs": {
-		"ranks": "📊 Ranks",
-		"teams": "👥 Teams",
-		"nikkes": "👑 Top Nikkes"
+		"ranks": "📊 Rangos",
+		"teams": "👥 Equipos",
+		"nikkes": "👑 Mejores Nikkes"
 	},
 	"serverLabels": {
-		"WORLD": "World",
+		"WORLD": "Mundial",
 		"NA": "NA",
 		"GLOBAL": "Global",
 		"JP": "JP",
