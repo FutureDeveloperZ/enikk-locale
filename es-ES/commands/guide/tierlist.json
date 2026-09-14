@@ -1,32 +1,32 @@
 {
 	"name": "tierlist",
-	"description": "{{mode}} Tier List — {{burst}}",
-	"noMatch": "No characters match the current filters.",
-	"loading": "Loading tier list...",
-	"descriptionSimple": "{{mode}} Tier List",
+	"description": "Tier List de {{mode}} — {{burst}}",
+	"noMatch": "No hay personajes que coincidan con los filtros actuales.",
+	"loading": "Cargando tier list...",
+	"descriptionSimple": "Tier List de {{mode}}",
 	"header": "## 【 {{mode}} - Tierlist 】",
-	"viewOnPrydwen": "View on Prydwen",
+	"viewOnPrydwen": "Ver en Prydwen",
 	"burstButtons": {
-		"all": "All",
+		"all": "Todos",
 		"I": "Burst I",
 		"II": "Burst II",
 		"III": "Burst III"
 	},
 	"burstLabels": {
-		"all": "All Bursts",
+		"all": "Todos los Bursts",
 		"I": "Burst I",
 		"II": "Burst II",
 		"III": "Burst III"
 	},
-	"modeSelectPlaceholder": "Mode",
-	"weaponSelectPlaceholder": "Weapon",
-	"manufacturerSelectPlaceholder": "Manufacturer",
-	"elementSelectPlaceholder": "Element",
-	"raritySelectPlaceholder": "Rarity",
+	"modeSelectPlaceholder": "Modo",
+	"weaponSelectPlaceholder": "Arma",
+	"manufacturerSelectPlaceholder": "Fabricante",
+	"elementSelectPlaceholder": "Elemento",
+	"raritySelectPlaceholder": "Rareza",
 	"filterOptions": {
-		"allWeapons": "All Weapons",
-		"allManufacturers": "All Manufacturers",
-		"allElements": "All Elements",
-		"allRarities": "All Rarities"
+		"allWeapons": "Todas las Armas",
+		"allManufacturers": "Todos los Fabricantes",
+		"allElements": "Todos los Elementos",
+		"allRarities": "Todas las Rarezas"
 	}
 }
