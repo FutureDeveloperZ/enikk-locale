@@ -17,6 +17,6 @@
   "lavalink": "Lavalink",
   "lavalinkDescription": "Servidor de audio autoalojado para reproducción de música en canales de voz. Transmite pistas de audio del juego a Discord.",
   "mongoDb": "MongoDB",
-  "mongoDbDescription": "Optional persistent storage for guild configurations, AI settings, and user data.",
-  "footer": "Some services require configuration via environment variables."
+  "mongoDbDescription": "Almacenamiento persistente opcional para configuraciones de uniones, ajustes de IA, y datos de usuario.",
+  "footer": "Algunos servicios pueden requerir configuración mediante variables de entorno."
 }
