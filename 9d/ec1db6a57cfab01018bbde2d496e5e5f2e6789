@@ -1,0 +1,23 @@
+en-US/commands/config.json
+  s_233898a2126820::t_172c16e7de2ff5 65
+  s_233898a2126820::t_cc11d02c8a88ad 79
+  s_233898a2126820::t_d67e4a33949e1b 6-8
+  s_233898a2126820::t_183c5fad72908b 10
+  s_233898a2126820::t_5b8f697810f0be 9,11-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9dec1db6a57cfab01018bbde2d496e5e5f2e6789",
+  "prompts": {},
+  "sessions": {
+    "s_233898a2126820": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f6d003bbfffeQ2UOli9LLBHvVl",
+        "model": "muse-spark-1.3-contributor-free"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
