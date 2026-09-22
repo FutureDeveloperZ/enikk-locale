@@ -9,6 +9,7 @@
 	"invalidSearch": "Please provide a valid search query.",
 	"searchNotFound": "Couldn't find any users matching **{{query}}**.",
 	"searchNoProfile": "Found **{{username}}** but they don't have a game profile.",
+	"private": "This user has enabled BlaBlaLink profile privacy.",
 	"sessionExpiring": "Your BlaBlaLink session expires in {{days}} day(s). Re-link with /blabla-link to avoid interruption.",
 	"fields": {
 		"blablalink": "BlaBlaLink",

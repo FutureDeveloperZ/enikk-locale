@@ -7,5 +7,6 @@
 	"searchNotFound": "Couldn't find any users matching **{{query}}**.",
 	"searchNoProfile": "Found **{{username}}** but they don't have a game profile.",
 	"noOwnLink": "You don't have a BlaBlaLink account linked. Use **/blabla-link** to link one, or provide a **user_id** or **user** option.",
-	"noOwnAlt": "No alt labeled **{{label}}** found on your account."
+	"noOwnAlt": "No alt labeled **{{label}}** found on your account.",
+	"sessionExpired": "Your BlaBlaLink session is missing or expired, so the bot is using a shared fallback session. Use **/blabla-link** to refresh your session."
 }

@@ -1,48 +1,48 @@
 {
 	"name": "solo-raid",
-	"description": "Solo raid rankings, teams, and character usage",
-	"useSlashCommand": "This command can only be used as a slash command.",
-	"fetchErrorLeaderboard": "Could not fetch solo raid leaderboard: {{msg}}",
-	"fetchErrorTeams": "Could not fetch solo raid teams: {{msg}}",
-	"fetchErrorCharacters": "Could not fetch solo raid characters: {{msg}}",
-	"filterServerPlaceholder": "Filter by server...",
-	"invalidPage": "Invalid page number.",
-	"unknown": "Unknown",
-	"uses": " uses",
-	"teams": " teams",
+	"description": "Clasificaciones de Solo raids, equipos y usos de personaje",
+	"useSlashCommand": "Este comando solo puede utilizarse como un comando slash.",
+	"fetchErrorLeaderboard": "Error al obtener clasificaciones de solo raid: {{msg}}",
+	"fetchErrorTeams": "Error al obtener equipos de solo raid: {{msg}}",
+	"fetchErrorCharacters": "Error al obtener personajes de solo raid: {{msg}}",
+	"filterServerPlaceholder": "Filtrar por servidor...",
+	"invalidPage": "Número de página inválido.",
+	"unknown": "Desconocido",
+	"uses": " usos",
+	"teams": " equipos",
 	"ranksTab": {
-		"title": "⚔️ Solo Raid Ranks — Raid {{raid}}",
-		"description": "ELO Leaderboard · {{server}}",
-		"noDataName": "No data",
-		"noDataValue": "No rankings available for this server.",
-		"fieldName": "🏆 Top Players"
+		"title": "⚔️Rangos de Solo Raid — Raid {{raid}}",
+		"description": "Clasificación ELO · {{server}}",
+		"noDataName": "Sin datos",
+		"noDataValue": "No hay clasificaciones disponibles para este servidor.",
+		"fieldName": "🏆 Mejores Jugadores"
 	},
 	"teamsTab": {
-		"title": "👥 Solo Raid Teams — Raid {{raid}}",
-		"description": "Sorted by {{sort}}",
-		"noDataName": "No data",
-		"noDataValue": "No team data available for this raid.",
-		"fieldName": "👥 Team Compositions"
+		"title": "👥 Equipos de Solo Raid — Raid {{raid}}",
+		"description": "Ordenados por {{sort}}",
+		"noDataName": "Sin datos",
+		"noDataValue": "No hay datos de equipos disponibles para esta raid.",
+		"fieldName": "👥 Composiciones de Equipo"
 	},
 	"nikkesTab": {
-		"title": "👑 Top Nikkes — Raid {{raid}}",
-		"description": "By usage rate",
-		"noDataName": "No data",
-		"noDataValue": "No character usage data available for this raid.",
-		"fieldName": "👑 Character Usage"
+		"title": "👑 Mejores Nikkes — Raid {{raid}}",
+		"description": "Por frecuencia de uso",
+		"noDataName": "Sin datos",
+		"noDataValue": "No hay datos de uso de personaje disponibles para esta raid.",
+		"fieldName": "👑 Uso de Personaje"
 	},
 	"sortButtons": {
-		"count": "📈 Usage",
-		"maxdmg": "💥 Max DMG",
-		"avgdmg": "📊 Avg DMG"
+		"count": "📈 Uso",
+		"maxdmg": "💥 Daño MÁX",
+		"avgdmg": "📊 Daño Promedio"
 	},
 	"tabs": {
-		"ranks": "📊 Ranks",
-		"teams": "👥 Teams",
-		"nikkes": "👑 Top Nikkes"
+		"ranks": "📊 Rangos",
+		"teams": "👥 Equipos",
+		"nikkes": "👑 Mejores Nikkes"
 	},
 	"serverLabels": {
-		"WORLD": "World",
+		"WORLD": "Mundial",
 		"NA": "NA",
 		"GLOBAL": "Global",
 		"JP": "JP",

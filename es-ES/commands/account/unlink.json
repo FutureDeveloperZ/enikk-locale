@@ -1,14 +1,14 @@
 {
 	"name": "blabla-unlink",
-	"description": "Unlink your BlaBlaLink account from Discord",
-	"prefixOnly": "Use /blabla-unlink to unlink your BlaBlaLink account.",
-	"noLink": "Your Discord account is not linked to any BlaBlaLink account.",
-	"confirmTitle": "⚠️ Unlink Account",
-	"confirmDesc": "This will permanently unlink **{{id}}** from your Discord account.\n\nAll account data (playlists, settings) will be cleared. This cannot be undone.",
-	"cancelled": "Unlink cancelled.",
-	"unlinked": "✅ Unlinked from **{{id}}**. All linked data has been removed.",
+	"description": "Desvincula tu cuenta de BlaBlaLink de Discord",
+	"prefixOnly": "Utiliza /blabla-unlink para desvincular tu cuenta de BlaBlaLink.",
+	"noLink": "Tu cuenta de Discord no está vinculada a ninguna de BlaBlaLink.",
+	"confirmTitle": "⚠️ Desvincular Cuenta",
+	"confirmDesc": "Esto desvinculará **{{id}}** permanentemente de tu cuenta de Discord.\n\nTodos los datos de la cuenta (listas, configuraciones) serán limpiados. Este cambio no puede ser revertido.",
+	"cancelled": "Desvinculación cancelada.",
+	"unlinked": "✅ Desvinculado de **{{id}}**. Todos los datos relevantes fueron removidos.",
 	"labels": {
-		"confirm": "Yes, Unlink",
-		"cancel": "Cancel"
+		"confirm": "Sí, Desvincular",
+		"cancel": "Cancelar"
 	}
 }

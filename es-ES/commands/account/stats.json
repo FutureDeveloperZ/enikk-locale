@@ -1,5 +1,5 @@
 {
-  "name": "stats",
-  "description": "View a NIKKE's stats for a player",
-  "prefixOnly": "Use /stats nikke:<name> to view a character's stats."
+  "name": "estadísticas",
+  "description": "Mira las estadísticas de la Nikke de un jugador",
+  "prefixOnly": "Utiliza /estadisticas nikke:<name> para mirar las estadísticas de un personaje."
 }

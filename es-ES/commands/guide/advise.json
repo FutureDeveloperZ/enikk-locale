@@ -1,8 +1,8 @@
 {
-	"name": "advise",
-	"description": "Showing all {{count}} scenarios",
-	"askNikke": "Which Nikke's advise scenarios would you like to view?",
-	"notFound": "No advise scenarios found for \"{{nikke}}\".",
-	"title": "{{nikke}} — Advise Scenarios",
-	"fetchError": "Failed to fetch advise data."
+	"name": "asesorar",
+	"description": "Mostrando todos los escenarios ({{count}})",
+	"askNikke": "¿Los escenarios de qué Nikke te gustaría consultar?",
+	"notFound": "No se encontraron escenarios de asesoramiento para \"{{nikke}}\".",
+	"title": "{{nikke}} — Escenarios de Asesoramiento",
+	"fetchError": "Error al extraer datos de asesoramiento."
 }

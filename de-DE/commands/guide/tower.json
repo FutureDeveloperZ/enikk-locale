@@ -20,7 +20,7 @@
 		"boss": "**Boss**: {{boss}}",
 		"stageElement": "**Stage Element**: {{emoji}} {{element}}",
 		"weakElement": "**Weak Element**: {{emoji}} {{element}}",
-		"effectiveRange": "**Effective Range**: `{{close}}%` / `{{mid}}%` / `{{far}}%`",
+		"effectiveRange": "**Effective Range**: Close `{{close}}%` / Mid `{{mid}}%` / Far `{{far}}%`",
 		"recommendedPower": "**Recommended Power**: `{{power}}`",
 		"rewardsField": "**REWARDS**",
 		"wavesField": "**WAVES**",

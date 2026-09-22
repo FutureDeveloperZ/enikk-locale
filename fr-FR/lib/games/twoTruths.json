@@ -1,0 +1,17 @@
+{
+	"noData": "Could not find any Nikke data. Try again later.",
+	"title": "Two Truths, One Lie",
+	"roundHeader": "Round {{round}}/{{rounds}}",
+	"prompt": "Which statement about **{{name}}** is the **lie**? Vote before <t:{{timestamp}}:R>",
+	"alreadyVoted": "You already voted this round!",
+	"voteClosed": "Voting is closed for this round.",
+	"lieReveal": "The lie was **{{lie}}**",
+	"revealName": "The answer was **{{name}}**",
+	"correctVoters": "✅ Correct: {{players}}",
+	"wrongVoters": "❌ Wrong: {{players}}",
+	"revealTitle": "Round {{round}} — Reveal!",
+	"noScores": "No one voted correctly this game.",
+	"finalTitle": "Two Truths, One Lie — Final!",
+	"winner": "🏆 **{{username}}** wins!",
+	"scoresList": "{{rank}}. **{{username}}** — {{points}} pts"
+}

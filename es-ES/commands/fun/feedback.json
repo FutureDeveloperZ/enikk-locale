@@ -1,0 +1,6 @@
+{
+	"slashOnly": "Utiliza `/feedback` para enviar comentarios a los desarrolladores.",
+	"unavailable": "El servicio de comentarios no está configurado ahora mismo.",
+	"failed": "Tu comentario no pudo ser enviado. Inténtalo de nuevo más tarde.",
+	"sent": "Tu comentario fue enviado a los desarrolladores. ¡Gracias!"
+}

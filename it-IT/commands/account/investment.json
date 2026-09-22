@@ -1,0 +1,6 @@
+{
+  "button": "Investment History",
+  "historyTitle": "**Investment History**",
+  "noChanges": "No investment changes recorded yet",
+  "noChangesHint": "The first observation becomes the baseline; later changed builds appear here."
+}
