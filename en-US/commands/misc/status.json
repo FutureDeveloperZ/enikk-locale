@@ -1,6 +1,6 @@
 {
-  "name": "stats",
-  "description": "Show bot statistics",
+  "name": "status",
+  "description": "Show bot status and statistics",
   "servers": "Servers",
   "users": "Users",
   "ping": "Ping",
