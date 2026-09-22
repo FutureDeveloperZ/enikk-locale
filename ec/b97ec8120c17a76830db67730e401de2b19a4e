@@ -1,0 +1,21 @@
+en-US/commands/fun/simulation.json
+  s_29e781b08fb50b::t_00705fba040436 1,25
+  s_29e781b08fb50b::t_efa65bc0e51b77 2-22
+  s_29e781b08fb50b::t_657481e64bec1d 23-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ecb97ec8120c17a76830db67730e401de2b19a4e",
+  "prompts": {},
+  "sessions": {
+    "s_29e781b08fb50b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0ca2c-7861-7c82-ba02-4e55d1075fb7",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
