@@ -29,7 +29,7 @@
   "guild": "Servidor",
   "language": "Idioma",
   "noPermission": "No tienes permiso para usar este comando.",
-  "notFound": "{{entity}} not found.",
+  "notFound": "{{entity}} no encontrado.",
   "cooldown": "Por favor, espera {{seconds}} segundo(s) antes de usar este comando de nuevo.",
   "ownerOnly": "Este comando está restringido a los propietarios del bot.",
   "missingArgs": "Faltan argumentos requeridos.",
