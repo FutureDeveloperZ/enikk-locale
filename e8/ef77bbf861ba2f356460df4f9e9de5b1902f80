@@ -1,0 +1,19 @@
+en-US/services/llm.json
+  s_0f910de0e7e8e3::t_dc63ddb6b45917 14-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e8ef77bbf861ba2f356460df4f9e9de5b1902f80",
+  "prompts": {},
+  "sessions": {
+    "s_0f910de0e7e8e3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0d0b2-824d-7891-85aa-d8189e42c684",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
