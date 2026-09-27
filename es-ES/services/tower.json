@@ -13,7 +13,7 @@
 		"mid": "Medio",
 		"far": "Lejos",
 		"recommendedPower": "Poder Recomendado",
-		"destroy": "Destruye** en **{{time}}",
+		"destroy": "Destruye en {{time}}",
 		"rewardsHeader": "Recompensas",
 		"rewardsField": "Recompensas",
 		"noRewards": "No hay premio",
