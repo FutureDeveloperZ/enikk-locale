@@ -1,11 +1,11 @@
 {
-	"noData": "No Nikke data available. Try again later.",
-	"rendering": "Rendering board...",
+	"noData": "No hay datos del Nikke disponibles. Inténtalo más tarde.",
+	"rendering": "Renderizando tablero...",
 	"title": "**Nikkedle** 🎯",
-	"candidatesRemaining": "`{{remaining}}` candidate{{s}} remaining · Guess {{guesses}}/{{maxGuesses}}",
-	"firstGuess": "Send a Nikke name in chat to make the first guess.",
-	"gameOver": "The answer was **{{name}}**! 🎉",
-	"gameOverNoWin": "The answer was **{{name}}**",
-	"guessesUsed": "Guesses used: {{guesses}}/{{maxGuesses}}",
-	"noGuesses": "No guesses were made."
+	"candidatesRemaining": "`{{remaining}}` candidato{{s}} restante · Adivina {{guesses}}/{{maxGuesses}}",
+	"firstGuess": "Envía un nombre Nikke en el chat para hacer la primera conjetura.",
+	"gameOver": "La respuesta fue **{{name}}**! 🎉",
+	"gameOverNoWin": "La respuesta fue **{{name}}**",
+	"guessesUsed": "Adivinas usadas: {{guesses}}/{{maxGuesses}}",
+	"noGuesses": "No se han hecho conjeturas."
 }
