@@ -1,17 +1,17 @@
 {
 	"name": "playlist",
-	"description": "Manage your music playlists",
-	"sessionExpired": "Session expired. Please try again.",
+	"description": "Administra tus listas de reproducción",
+	"sessionExpired": "Sesión expirada. Por favor inténtalo de nuevo.",
 	"create": {
-		"description": "Create a new playlist",
-		"nameDescription": "Playlist name",
-		"nameEmpty": "Playlist name cannot be empty.",
-		"created": "Playlist **{{name}}** created!",
-		"failed": "Failed to create playlist."
+		"description": "Crear una nueva lista de reproducción",
+		"nameDescription": "Nombre de la lista de reproducción",
+		"nameEmpty": "El nombre de la lista no puede estar vacío.",
+		"created": "¡Lista **{{name}}** creada con éxito!",
+		"failed": "Error al crear lista de reproducción."
 	},
 	"add": {
-		"description": "Add a song to a playlist",
-		"songDescription": "Song name to add",
+		"description": "Añade una canción a una lista",
+		"songDescription": "Título de la canción a añadir",
 		"playlistDescription": "Playlist name (omit if you have only one)",
 		"notFound": "Couldn't find any song matching **{{query}}**.",
 		"noPlaylists": "You don't have any playlists. Create one first with `/playlist create`.",
