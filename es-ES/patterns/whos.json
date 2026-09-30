@@ -1,4 +1,4 @@
 {
   "title": "¿Quién es {{name}}?",
-  "noInfo": "Todavía no tengo información sobre **{{name}}** ."
+  "noInfo": "Todavía no tengo información sobre **{{name}}**."
 }
