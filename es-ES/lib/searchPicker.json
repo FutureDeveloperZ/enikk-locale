@@ -5,10 +5,10 @@
 		"union": "Uniones"
 	},
 	"noResults": "No se encontraron resultados.",
-	"noSession": "Esta sesión de búsqueda ha caducado. Ejecute el comando de nuevo para buscar.",
-	"selectPlaceholder": "Seleccione un resultado...",
-	"selectDetail": "Seleccionar para ver",
+	"noSession": "Esta sesión de búsqueda ha caducado. Ejecuta el comando de nuevo para buscar.",
+	"selectPlaceholder": "Selecciona un resultado...",
+	"selectDetail": "Selecciona para ver",
 	"noLimit": "Sin límite",
-	"raidMemberLocked": "Eres miembro de este gremio, pero tu cuenta está vinculada con ID (no está vinculada a cookies). Vincula la cookie de tu juego para ver los datos de la banda.",
-	"raidNotMember": "No eres miembro de este gremio, por lo que no puedes ver sus datos de banda. Únete a la guild para verlo."
+	"raidMemberLocked": "Eres miembro de este gremio, pero tu cuenta está vinculada con ID (no con cookies). Vincula la cookie de tu juego para ver los datos de la raid.",
+	"raidNotMember": "No eres miembro de esta unión, por lo que no puedes ver sus datos de raid. Únete a la unión para verlo."
 }
