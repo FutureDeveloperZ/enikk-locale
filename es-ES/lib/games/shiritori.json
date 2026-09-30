@@ -1,9 +1,9 @@
 {
 	"title": "NIKKE Shiritori — {{difficulty}}",
 	"cancelled": "Game cancelled by host.",
-	"description": "Word chain with NIKKE names!",
+	"description": "Palabras encadenadas ¡pero con nombres de Nikkes!",
 	"difficultyInfo": "**{{difficulty}} mode**",
-	"turnSeconds": "• **{{seconds}}s** per turn",
+	"turnSeconds": "• **{{seconds}}s** por turno",
 	"ruleStripSuffix": "• Alt suffixes (`: X`) are **stripped** for the chain letter — easier!",
 	"ruleNoReuse": "• Each starting letter can only be used **once** in the chain",
 	"joinPrompt": "Click **Join** to play! Starting <t:{{timestamp}}:R> (need at least 2 players)",
