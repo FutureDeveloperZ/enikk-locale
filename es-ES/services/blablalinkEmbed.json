@@ -2,7 +2,7 @@
 	"errorTitle": "⚠️ Error",
 	"genericError": "Se ha producido un error. Los desarrolladores han sido notificados sobre ello.",
 	"devNotified": "#- Los desarrolladores acaban de informarse sobre el problema",
-	"sessionExpired": "Tu sesión de BlaBlaLink ha caducado. Por favor, vuelve a vincular tu cuenta con **/blabla-link** usando una cookie fresca.",
+	"sessionExpired": "Tu sesión de BlaBlaLink ha caducado. Por favor, vuelve a vincular tu cuenta con **/blabla-link** utilizando una cookie nueva.",
 	"relinkPrompt": "Utiliza /blabla-link para actualizar tu cookie",
 	"noGameAccount": "El usuario no tiene una cuenta de juego vinculada. Los datos del juego no están disponibles.",
 	"noGameAccountHint": "#- Este usuario no ha vinculado una cuenta de juego",
