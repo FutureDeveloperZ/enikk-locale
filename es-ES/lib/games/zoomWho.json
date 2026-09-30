@@ -1,12 +1,12 @@
 {
-	"noData": "Could not find any Nikke data. Try again later.",
-	"downloadFailed": "Could not download image for **{{name}}**. Try again later.",
-	"processFailed": "Could not process image for **{{name}}**. Try again later.",
+	"noData": "No se pudieron cargar datos de la Nikke. Inténtalo de nuevo más tarde.",
+	"downloadFailed": "No se pudo descargar la imagen para **{{name}}**. Inténtalo de nuevo más tarde.",
+	"processFailed": "No se pudo procesar la imagen para **{{name}}**. Inténtalo de nuevo más tarde.",
 	"title": "🔍 Zoom Who? — {{difficulty}}",
-	"guessPrompt": "Guess the Nikke from this crop!\n⏱️ Ends <t:{{timestamp}}:R>",
-	"correct": "Hurray <@{{userId}}> did it! 🎉",
-	"reveal": "The answer was **{{name}}**",
+	"guessPrompt": "¡Adivina la Nikke de este recorte!\n⏱️ Termina <t:{{timestamp}}:R>",
+	"correct": "¡Hurra! ¡<@{{userId}}> lo ha hecho! 🎉",
+	"reveal": "La respuesta era **{{name}}**",
 	"score": "{{seconds}}s · +{{points}} pts",
-	"timeUp": "⏰ Time's up!",
-	"testingFooter": "We are still testing these minigames if u got feedback please use the /feedback or join our discord server"
+	"timeUp": "⏰ ¡Tiempo agotado!",
+	"testingFooter": "Todavía estamos probando estos minijuegos. Si tienes comentarios por favor utiliza /feedback o únete a nuestro servidor de Discord"
 }
