@@ -1,10 +1,10 @@
 {
-	"title": "Ark Overview | Daily Announcements",
-	"recruitmentsHeader": "【 RECRUITMENTS 】",
-	"costumesHeader": "【 COSTUMES & PASSES 】",
-	"eventsHeader": "【 EVENTS 】",
+	"title": "Resumen del Ark | Anuncios Diarios",
+	"recruitmentsHeader": "【 RECRUTAMIENTOS 】",
+	"costumesHeader": "【 DISFRACES & PASES 】",
+	"eventsHeader": "【 EVENTOS 】",
 	"arenaRaidsHeader": "【 ARENA & RAIDS 】",
-	"inviteLabel": "Invite Bot",
-	"websiteLabel": "Official Website",
-	"empty": "No events are currently tracked."
+	"inviteLabel": "Invitar Bot",
+	"websiteLabel": "Sitio Web Oficial",
+	"empty": "No hay eventos que se estén siguiendo."
 }
