@@ -1,12 +1,12 @@
 {
-	"name": "game",
-	"description": "Start an interactive game",
-	"channelOnly": "This command can only be used in server text channels.",
-	"dataError": "Could not load Nikke data. Try again later.",
+	"name": "Spiel",
+	"description": "Ein interaktives Spiel beginnen",
+	"channelOnly": "Dieser Befehl kann nur in Server-Textkanälen verwendet werden.",
+	"dataError": "Nikke-Daten konnten nicht geladen werden. Versuche es später erneut.",
 	"sessionExpired": "This game session has expired or is no longer accepting players.",
-	"joined": "You joined the game!",
-	"alreadyIn": "You're already in the game.",
-	"noSession": "No active game session found.",
-	"hostOnly": "Only the host can cancel the game.",
-	"gameInProgress": "A game is already running in this channel. Wait for it to end before starting a new one."
+	"joined": "Du bist dem Spiel beigetreten!",
+	"alreadyIn": "Du bist bereits im Spiel.",
+	"noSession": "Keine aktive Spielsitzung gefunden.",
+	"hostOnly": "Nur der Gastgeber kann das Spiel abbrechen.",
+	"gameInProgress": "Ein Spiel läuft bereits in diesem Kanal. Warte, bis es beendet ist, bevor du ein neues beginnen kannst."
 }
