@@ -1,12 +1,12 @@
 {
-	"invalidUserId": "Invalid user ID. Please enter the numeric ID from your BlaBlaLink profile.",
-	"notFound": "Could not find a BlaBlaLink profile with that user ID.",
-	"noLink": "{{user}} doesn't have a BlaBlaLink account linked.",
-	"noAlt": "{{user}} doesn't have an alt labeled **{{label}}**.",
-	"invalidSearch": "Please provide a valid search query.",
-	"searchNotFound": "Couldn't find any users matching **{{query}}**.",
-	"searchNoProfile": "Found **{{username}}** but they don't have a game profile.",
-	"noOwnLink": "You don't have a BlaBlaLink account linked. Use **/blabla-link** to link one, or provide a **user_id** or **user** option.",
-	"noOwnAlt": "No alt labeled **{{label}}** found on your account.",
-	"sessionExpired": "Your BlaBlaLink session is missing or expired, so the bot is using a shared fallback session. Use **/blabla-link** to refresh your session."
+	"invalidUserId": "ID de usuario inválido. Por favor ingresa el ID numérico de tu perfil de BlaBlaLink.",
+	"notFound": "No se pudo encontrar un perfil de BlaBlaLink con ese ID de usuario.",
+	"noLink": "{{user}} no tiene una cuenta de BlaBlaLink vinculada.",
+	"noAlt": "{{user}} no tiene una cuenta alternativa llamada **{{label}}**.",
+	"invalidSearch": "Por favor, ingresa opciones de búsqueda válidas.",
+	"searchNotFound": "No se pudo encontrar a ningún usuario que coincida con **{{query}}**.",
+	"searchNoProfile": "Se encontró a **{{username}}**, pero no tiene un perfil de juego.",
+	"noOwnLink": "No tienes una cuenta de BlaBlaLink vinculada. Utiliza **/blabla-link** para vincular una, o provee los argumentos **user_id** o **user**.",
+	"noOwnAlt": "No hay una cuenta alternativa que coincida con **{{label}}** en tu cuenta.",
+	"sessionExpired": "Tu sesión de BlaBlaLink ha sido perdida o está expirada. El bot está utilizando una sesión de respaldo compartida. Utiliza **/blabla-link** para refrescar tu sesión."
 }

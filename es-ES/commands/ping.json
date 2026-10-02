@@ -1,7 +1,7 @@
 {
 	"name": "ping",
-	"description": "Check the bot's latency",
-	"title": "🏓 Pong!",
-	"latency": "WebSocket heartbeat: `{{latency}}ms`",
-	"refresh": "Refresh"
+	"description": "Verifica la latencia del bot",
+	"title": "🏓 ¡Pong!",
+	"latency": "Latido de Socket Web: `{{latency}}ms`",
+	"refresh": "Refrescar"
 }

@@ -1,21 +1,21 @@
 {
 	"clear-emojis": {
-		"name": "clear-emojis",
-		"description": "Delete all application emojis (owner only)",
-		"notOwner": "Only bot owners can use this command.",
-		"clearing": "Clearing emojis...",
-		"noEmojis": "No application emojis to clear.",
-		"cleared": "Cleared {{deleted}} emoji(s)",
-		"clearedWithFailed": "Cleared {{deleted}} emoji(s) ({{failed}} failed)",
-		"restartNote": "Restart the bot to re-upload from local assets."
+		"name": "purgar-emojis",
+		"description": "Elimina todos los emojis de la aplicación (solo owner)",
+		"notOwner": "Solo los propietarios (owners) del bot pueden utilizar este comando.",
+		"clearing": "Purgando emojis...",
+		"noEmojis": "No hay emojis de aplicación que eliminar.",
+		"cleared": "{{deleted}} emoji(s) purgado(s)",
+		"clearedWithFailed": "{{deleted}} emoji(s) purgado(s) ({{failed}} ha fallado)",
+		"restartNote": "Reinicia el bot para volver a subir con recursos locales."
 	},
 	"eval": {
 		"name": "eval",
-		"description": "Run arbitrary JavaScript in the bot (owner only). Use the prefix form: Enikk eval <code>.",
-		"slashOnly": "This command is only available as a prefix command.",
-		"notOwner": "Only bot owners can use this command.",
-		"noCode": "Provide code after the eval command.",
-		"tooLong": "Code exceeds the {{max}} character limit.",
-		"blocked": "Blocked: the code references `{{token}}`, which is not allowed."
+		"description": "Ejecuta código de JavaScript en el bot (solo owner). Utiliza la forma de prefijo: Enikk eval <código>",
+		"slashOnly": "Este comando solo está disponible como un comando de prefijo.",
+		"notOwner": "Solo los propietarios (owners) del bot pueden utilizar este comando.",
+		"noCode": "Ingresa el código a ejecutar detrás el comando eval.",
+		"tooLong": "El código excede el límite de {{max}} caracteres.",
+		"blocked": "Bloqueado: el código contiene una referencia a `{{token}}`, lo cual no está permitido."
 	}
 }

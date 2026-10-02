@@ -2,56 +2,56 @@
   "name": "ajustes",
   "description": "Administra tus ajustes personales",
   "tabs": {
-    "user": "User Settings",
-    "privacy": "Privacy Settings",
-    "account": "Account Settings"
+    "user": "Ajustes de Usuario",
+    "privacy": "Ajustes de Privacidad",
+    "account": "Ajustes de Cuenta"
   },
   "tabSelect": {
-    "placeholder": "Settings"
+    "placeholder": "Ajustes"
   },
   "language": {
-    "title": "Language",
-    "serverDefaultHint": "Enikk will default to the server language. Some text might still be in English.",
-    "current": "Tu idioma actual: **{{language}}**",
-    "updated": "Idioma establecido a **{{language}}**.",
-    "reset": "Reiniciar idioma al servidor por defecto.",
-    "selectPlaceholder": "Seleccione su idioma",
+    "title": "Lenguaje",
+    "serverDefaultHint": "Enikk utilizará por defecto el lenguaje del servidor. Algunos textos podrían aún estar en inglés.",
+    "current": "Tu lenguaje actual: **{{language}}**",
+    "updated": "Lenguaje establecido a **{{language}}**.",
+    "reset": "Reiniciar lenguaje al valor por defecto del servidor.",
+    "selectPlaceholder": "Selecciona tu lenguaje",
     "global": "Usar valor por defecto del servidor",
-    "serverDefault": "Server default"
+    "serverDefault": "Valor por defecto del servidor"
   },
   "privacy": {
-    "title": "Privacy",
-    "on": "Private",
-    "off": "Public",
+    "title": "Privacidad",
+    "on": "Privado",
+    "off": "Público",
     "profile": {
-      "title": "BlaBlaLink Profile Privacy",
-      "description": "When enabled, other users cannot view your BlaBlaLink profile through Enikk. You can still view your own profile privately."
+      "title": "Privacidad de Perfil de BlaBlaLink",
+      "description": "Si está habilitado, otros usuarios no podrán ver tu perfil de BlaBlaLink a través de Enikk. Todavía puedes visualizar tu propio perfil de forma privada."
     },
     "characters": {
-      "title": "Character Privacy",
-      "description": "When enabled, other users cannot view your character roster or details through Enikk. Your character leaderboard rows remain visible with your name hidden."
+      "title": "Privacidad de Personajes",
+      "description": "Si está habilitado, otros usuarios no pueden ver tu lista o detalles de los personajes a través de Enikk. Tus clasificaciones siguen siendo visibles con tu nombre oculto."
     },
     "minigame": {
-      "title": "Minigame Privacy",
-      "description": "When enabled, your minigame leaderboard scores remain visible, but your username is hidden."
+      "title": "Privacidad de Minijuegos",
+      "description": "Si está habilitado, tus clasificaciones de minijuegos permanecen visibles, pero con tu nombre oculto."
     }
   },
   "investment": {
-    "title": "Investment Tracking",
-    "description": "If enabled, Enikk will track investment made on your nikkes",
-    "on": "On",
-    "off": "Off",
-    "failed": "Could not enable investment tracking. Make sure a BlaBlaLink account is linked and accessible."
+    "title": "Seguimiento de Mejoras",
+    "description": "Si está habilitado, Enikk rastreará mejoras hechas a tus Nikkes",
+    "on": "Activado",
+    "off": "Desactivado",
+    "failed": "No se pudo activar el seguimiento de mejoras. Asegúrate de que la cuenta de BlaBlaLink está vinculada y es accesible."
   },
   "compact": {
-    "title": "Compact Character Details",
-    "description": "If enabled, character details when you do /characters will be automatically compacted",
-    "on": "On",
-    "off": "Off"
+    "title": "Detalles de Personaje Compactos",
+    "description": "Si está habilitado, los detalles de personajes al utilizar /personajes serán automáticamente compactados",
+    "on": "Activado",
+    "off": "Desactivado"
   },
   "account": {
-    "placeholder": "Select account",
-    "primary": "Main account",
-    "noAccount": "No BlaBlaLink account linked."
+    "placeholder": "Seleccionar cuenta",
+    "primary": "Cuenta principal",
+    "noAccount": "No hay una cuenta BlaBlaLink vinculada."
   }
 }

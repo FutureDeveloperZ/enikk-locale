@@ -1,61 +1,61 @@
 {
-	"name": "player",
-	"description": "Music player controls",
-	"restored": "Restored the now-playing message.",
-	"nothingPlaying": "Nothing is playing right now.",
-	"unknownSubcommand": "Unknown subcommand.",
-	"notDj": "Only the current DJ can control playback.",
-	"setVolumeTitle": "Set Volume",
-	"volumeLabel": "Volume (0-10)",
-	"volumePlaceholder": "Current: {{volume}}",
-	"volumeNotNumber": "Volume must be a number between 0 and 10.",
-	"stopped": "Stopped",
-	"leftVoiceChannel": "Left voice channel",
+	"name": "música",
+	"description": "Controles del reproductor de música",
+	"restored": "Restaurado el mensaje de \"reproduciendo\".",
+	"nothingPlaying": "Nada está siendo reproducido en este momento.",
+	"unknownSubcommand": "Subcomando desconocido.",
+	"notDj": "Solo el DJ actual puede controlar la reproducción.",
+	"setVolumeTitle": "Establecer Volumen",
+	"volumeLabel": "Volumen (0-10)",
+	"volumePlaceholder": "Actual: {{volume}}",
+	"volumeNotNumber": "El volumen debe ser un número del 0 al 10.",
+	"stopped": "Detenido",
+	"leftVoiceChannel": "Se abandonó el canal de voz",
 	"play": {
-		"description": "Search and play a song",
-		"queryDescription": "Song name to search for",
-		"noVoiceChannel": "You need to be in a voice channel to play music.",
-		"notFound": "Couldn't find any song matching **{{query}}**.",
-		"added": "Added **{{name}}** to the queue (position #{{position}}).",
-		"nowPlaying": "Now playing **{{name}}**."
+		"description": "Buscar y reproducir una canción",
+		"queryDescription": "Título de la canción a buscar",
+		"noVoiceChannel": "Necesitas estar en un canal de voz para reproducir música.",
+		"notFound": "No se pudo encontrar ninguna canción que coincida con **{{query}}**.",
+		"added": "Se añadió **{{name}}** a la cola (posición #{{position}}).",
+		"nowPlaying": "Reproduciendo **{{name}}**."
 	},
 	"queue": {
-		"description": "Show the current queue",
-		"empty": "The queue is empty.",
-		"title": "Music Queue",
-		"nowPlaying": "**Now Playing:** {{name}} — {{artist}}",
-		"upNext": "Up Next ({{count}})",
-		"upNextTotal": "Up Next ({{count}} total)",
-		"andMore": "*...and {{count}} more*",
-		"totalTime": "Total queue time: {{time}}"
+		"description": "Muestra la cola actual",
+		"empty": "La cola de reproducción está vacía.",
+		"title": "Cola de Reproducción",
+		"nowPlaying": "**Reproduciendo:** {{name}} — {{artist}}",
+		"upNext": "Siguiente ({{count}})",
+		"upNextTotal": "Siguiente (total: {{count}})",
+		"andMore": "*...y {{count}} más*",
+		"totalTime": "Tiempo total de cola: {{time}}"
 	},
 	"skip": {
-		"description": "Skip the current track",
-		"notDj": "Only the current DJ can skip tracks.",
-		"skipped": "Skipped the current track.",
-		"nothing": "Nothing to skip."
+		"description": "Omite la pista actual",
+		"notDj": "Solo el DJ actual puede omitir pistas.",
+		"skipped": "Pista actual omitida.",
+		"nothing": "Nada que omitir."
 	},
 	"remove": {
-		"description": "Remove a song from the queue",
-		"indexDescription": "Position in the queue to remove",
-		"notDj": "Only the current DJ can remove songs from the queue.",
-		"removed": "Removed **{{name}}** from the queue.",
-		"invalid": "Invalid queue position."
+		"description": "Elimina una canción de la cola",
+		"indexDescription": "Posición de la cola a eliminar",
+		"notDj": "Solo el DJ actual puede eliminar canciones de la cola.",
+		"removed": "Se eliminó **{{name}}** de la cola.",
+		"invalid": "Posición de cola inválida."
 	},
 	"clear": {
-		"description": "Clear the entire queue",
-		"notDj": "Only the current DJ can clear the queue.",
-		"cleared": "Cleared **{{count}}** song(s) from the queue.",
-		"alreadyEmpty": "The queue is already empty."
+		"description": "Vacía la cola entera",
+		"notDj": "Solo el DJ actual puede vaciar la cola.",
+		"cleared": "Se han limpiado **{{count}}** canción(es) de la cola.",
+		"alreadyEmpty": "La cola ya se encuentra vacía."
 	},
 	"send": {
-		"description": "Send a song as a voice message in this channel",
-		"songDescription": "Song name to send",
-		"notFound": "Couldn't find any song matching **{{query}}**.",
-		"noAudio": "Couldn't download **{{name}}**. The audio source might be unavailable.",
-		"downloadFailed": "Failed to download the song. Try again later.",
-		"processFailed": "Failed to process the audio file.",
-		"sent": "Sent **{{name}}** as a voice message.",
+		"description": "Envía una canción como mensaje de voz en este canal",
+		"songDescription": "Título de la canción a enviar",
+		"notFound": "No se pudo encontrar ninguna canción que coincida con **{{query}}**.",
+		"noAudio": "No se pudo descargar **{{name}}**. La fuente de audio podría no estar disponible.",
+		"downloadFailed": "Error al descargar la canción. Inténtalo de nuevo más tarde.",
+		"processFailed": "Error al procesar el archivo de audio.",
+		"sent": "Se envió **{{name}}** como un mensaje de voz.",
 		"voiceReply": "🎵 **{{name}}** — {{artist}}"
 	}
 }

@@ -1,15 +1,17 @@
 {
-	"disabled": "Las funciones de IA están desactivadas en el momento actual inténtalo de nuevo más tarde",
-	"initializing": "Todavía estoy inicializando mi núcleo neuronal. Por favor espere un momento.",
+	"disabled": "Las funciones de IA están desactivadas actualmente. Inténtalo de nuevo más tarde",
+	"initializing": "Todavía estoy inicializando mi núcleo neuronal. Por favor espera un momento.",
 	"error": "Se ha producido un error en mi proceso neuronal.",
 	"context": {
 		"server": "Servidor: ",
 		"channel": "Canal: ",
 		"date": "Fecha: ",
-		"time": "Tiempo: ",
+		"time": "Hora: ",
 		"user": "Usuario: ",
-		"replyTo": "Responder a: ",
+		"replyTo": "Respuesta a: ",
 		"header": "[Contexto: {{context}}]",
 		"archiveQuote": "[Has dicho: \"{{quote}}\"]"
-	}
+	},
+	"busy": "Estoy en otra conversación. Inténtalo de nuevo en un momento.",
+	"tooLong": "Mantén tu mensaje por debajo de 1.200 caracteres, así puedo darle la atención adecuada."
 }

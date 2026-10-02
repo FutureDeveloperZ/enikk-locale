@@ -1,4 +1,4 @@
 {
-  "noQuery": "Which character would you like to look up?",
-  "notFound": "Couldn't find any character matching **{{query}}**."
+  "noQuery": "¿Qué personaje te gustaría buscar?",
+  "notFound": "No se pudo encontrar a ningún personaje que coincida con **{{query}}**."
 }

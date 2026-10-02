@@ -11,5 +11,7 @@
 		"replyTo": "Reply to: ",
 		"header": "[Context: {{context}}]",
 		"archiveQuote": "[You once said: \"{{quote}}\"]"
-	}
+	},
+	"busy": "I'm handling another conversation. Try again in a moment.",
+	"tooLong": "Keep your message under 1,200 characters so I can give it proper attention."
 }

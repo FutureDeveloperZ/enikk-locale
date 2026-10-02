@@ -1,5 +1,5 @@
 {
-  "noQuery": "Which character would you like to see?",
-  "notFound": "Couldn't find any character matching **{{query}}**.",
-  "viewInViewer": "View in NKAS Viewer"
+  "noQuery": "¿Qué personaje te gustaría ver?",
+  "notFound": "No se pudo encontrar a ningún personaje que coincida con **{{query}}**.",
+  "viewInViewer": "Ver en NKAS"
 }

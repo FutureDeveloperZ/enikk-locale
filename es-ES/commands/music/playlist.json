@@ -1,50 +1,50 @@
 {
 	"name": "playlist",
-	"description": "Manage your music playlists",
-	"sessionExpired": "Session expired. Please try again.",
+	"description": "Administra tus listas de reproducción",
+	"sessionExpired": "Sesión expirada. Por favor inténtalo de nuevo.",
 	"create": {
-		"description": "Create a new playlist",
-		"nameDescription": "Playlist name",
-		"nameEmpty": "Playlist name cannot be empty.",
-		"created": "Playlist **{{name}}** created!",
-		"failed": "Failed to create playlist."
+		"description": "Crear una nueva lista de reproducción",
+		"nameDescription": "Nombre de la lista de reproducción",
+		"nameEmpty": "El nombre de la lista no puede estar vacío.",
+		"created": "¡Lista **{{name}}** creada con éxito!",
+		"failed": "Error al crear lista de reproducción."
 	},
 	"add": {
-		"description": "Add a song to a playlist",
-		"songDescription": "Song name to add",
-		"playlistDescription": "Playlist name (omit if you have only one)",
-		"notFound": "Couldn't find any song matching **{{query}}**.",
-		"noPlaylists": "You don't have any playlists. Create one first with `/playlist create`.",
-		"addedTo": "**{{song}}** added to **{{playlist}}**.",
-		"failed": "Failed to add song.",
-		"foundPick": "Found **{{name}}**. Pick a playlist:",
-		"selectPlaceholder": "Select a playlist",
-		"optionDescription": "{{count}} song(s)"
+		"description": "Añade una canción a una lista",
+		"songDescription": "Título de la canción a añadir",
+		"playlistDescription": "Nombre de la lista (omite si solo tienes una)",
+		"notFound": "No se pudo encontrar ninguna canción que coincida con **{{query}}**.",
+		"noPlaylists": "No tienes ninguna lista de reproducción. Crea una primero con `/playlist create`.",
+		"addedTo": "Añadida canción **{{song}}** a **{{playlist}}**.",
+		"failed": "Error al añadir canción.",
+		"foundPick": "Canción **{{name}}** encontrada. Elige una lista:",
+		"selectPlaceholder": "Selecciona una lista de reproducción",
+		"optionDescription": "{{count}} canción(es)"
 	},
 	"delete": {
-		"description": "Delete a playlist",
-		"playlistDescription": "Playlist to delete",
-		"deleted": "Playlist **{{name}}** deleted.",
-		"failed": "Failed to delete playlist."
+		"description": "Elimina una lista de reproducción",
+		"playlistDescription": "Lista a eliminar",
+		"deleted": "Lista **{{name}}** eliminada.",
+		"failed": "Error al eliminar lista de reproducción."
 	},
 	"load": {
-		"description": "Load and play all songs from a playlist",
-		"playlistDescription": "Playlist to load",
-		"notFound": "No playlist named **{{name}}** found.",
-		"empty": "Playlist **{{name}}** is empty.",
-		"noVoiceChannel": "You need to be in a voice channel to play music.",
-		"loaded": "Loaded **{{count}}** song(s) from **{{name}}**.",
-		"loadedWithFailed": "Loaded **{{count}}** song(s) from **{{name}}**. {{failed}} couldn't be loaded."
+		"description": "Carga y reproduce todas las canciones de una lista de reproducción",
+		"playlistDescription": "Lista a cargar",
+		"notFound": "No se ha encontrado ninguna lista de reproducción **{{name}}**.",
+		"empty": "Lista **{{name}}** está vacía.",
+		"noVoiceChannel": "Necesitas estar en un canal de voz para reproducir música.",
+		"loaded": "**{{count}}** canción(es) cargadas de **{{name}}**.",
+		"loadedWithFailed": "**{{count}}** canción(es) cargadas de **{{name}}**. {{failed}} no se pudo cargar."
 	},
 	"view": {
-		"description": "View your playlists or a specific playlist",
-		"playlistDescription": "Playlist to view (omit to see all)",
-		"noPlaylists": "You don't have any playlists yet.",
-		"notFound": "No playlist named **{{name}}** found.",
-		"playlistTitle": "Playlist: {{name}}",
-		"noSongs": "No songs yet.",
-		"andMore": "*...and {{count}} more*",
-		"yourPlaylists": "Your Playlists",
-		"entryCount": "{{count}} song(s)"
+		"description": "Consulta todas tus listas de reproducción, o una específica",
+		"playlistDescription": "Lista a consultar (omite para ver todas)",
+		"noPlaylists": "No tienes ninguna lista de reproducción aún.",
+		"notFound": "No se ha encontrado ninguna lista de reproducción con nombre **{{name}}**.",
+		"playlistTitle": "Lista de Reproducción: {{name}}",
+		"noSongs": "Aún no hay canciones.",
+		"andMore": "*...y {{count}} más*",
+		"yourPlaylists": "Tus Listas",
+		"entryCount": "{{count}} canción(es)"
 	}
 }

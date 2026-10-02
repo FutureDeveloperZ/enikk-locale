@@ -1,8 +1,8 @@
 {
-	"loading": "Loading...",
-	"renderingMessage": "### {{text}} {{emoji}}\n-# Rendering image, please wait.",
-	"loadingGraphic": "Loading infographic... {{emoji}}",
-	"renderingGrid": "### Loading infographic... {{emoji}}\n-# Rendering character grid, please wait.",
-	"noCharacters": "No characters to display.",
-	"rosterTitle": "{{name}}'s NIKKE Roster"
+	"loading": "Cargando...",
+	"renderingMessage": "### {{text}} {{emoji}}\n-# Renderizando imagen, por favor espera.",
+	"loadingGraphic": "Cargando gráficos... {{emoji}}",
+	"renderingGrid": "### Cargando gráficos... {{emoji}}\n-# Renderizando cuadrícula de personajes, por favor espere.",
+	"noCharacters": "No hay personajes para mostrar.",
+	"rosterTitle": "Lista de personajes de NIKKE de {{name}}"
 }
