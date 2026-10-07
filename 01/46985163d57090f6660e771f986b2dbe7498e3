@@ -1,0 +1,21 @@
+en-US/commands/fun/simulation.json
+  s_198d93ddc10104::t_8605641af3c519 16
+  s_198d93ddc10104::t_7b3e5847084e6b 25
+  s_198d93ddc10104::t_d3d855f33a811f 26-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0146985163d57090f6660e771f986b2dbe7498e3",
+  "prompts": {},
+  "sessions": {
+    "s_198d93ddc10104": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1098d-65f8-7f32-85b2-6a15a010db87",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
