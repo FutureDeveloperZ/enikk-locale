@@ -9,8 +9,6 @@
 	"earn": "Use `/claim-daily` for 12,000 gems every 24 hours, or 24,000 with premium. Vote for Enikk for 6,000 gems.\n`/wish-simulation` recruits ten Nikkes. Vouchers are used first; each remaining pull costs 300 gems.\nSimulator items and units are separate from your NIKKE game account.",
 	"empty": "Your collection is empty. Use `/claim-daily`, then `/wish-simulation` to recruit ten Nikkes.",
 	"page": "{{count}} Nikkes • Page {{page}}/{{pages}}",
-	"previous": "Previous",
-	"next": "Next",
 	"vote": "Top.gg • Vote for Enikk!",
 	"claimed": "Claimed **{{amount}} gems**! Your balance is **{{balance}} gems**. Use `/wish-simulation` to recruit ten Nikkes.",
 	"cooldown": "You have already claimed your daily gems. Claim again <t:{{time}}:R>.",
