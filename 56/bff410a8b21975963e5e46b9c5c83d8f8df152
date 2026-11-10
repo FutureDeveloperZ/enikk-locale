@@ -1,0 +1,19 @@
+en-US/announcements.json
+  s_bc1eb25d2181a9::t_220b9a41a0f71c 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "56bff410a8b21975963e5e46b9c5c83d8f8df152",
+  "prompts": {},
+  "sessions": {
+    "s_bc1eb25d2181a9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c328-676e-7a62-9464-33426cc4e095",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
