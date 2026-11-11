@@ -18,6 +18,7 @@
 	"balance": "{{gems}} gemas • {{tickets}} cupones restantes • SSR 4% / SR 43% / R 53%",
 	"saved": "Tus diez tiradas fueron procesadas, pero la imagen de resultados no pudo ser mostrada. Míralos con `/inventory`.",
 	"gameReward": "¡<@{{userId}}> también ha ganado {{emoji}} **1 Cupón de Reclutamiento Avanzado**!\nConsulta `/inventory` para utilizarlo.",
+	"gameRewardWeekend": "¡<@{{userId}}> también ha ganado {{emoji}} **2 Cupones de Reclutamiento Avanzado** con la bonificación del fin de semana!\nConsulta `/inventory` para utilizarlos.",
 	"recruitAgain": "Recluta 10 más",
 	"busy": "Tu reclutamiento todavía está siendo procesado. Espera a los resultados antes de reclutar de nuevo.",
 	"voteTitle": "¡Vota por Enikk!",
