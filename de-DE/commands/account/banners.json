@@ -1,5 +1,5 @@
 {
-	"name": "banners",
+	"name": "Banner",
 	"description": "View current recruitment and costume banners",
 	"prefixOnly": "This command is only available as a slash command.",
 	"fetchFailed": "Failed to fetch banner data.",
@@ -11,6 +11,6 @@
 		"recruitments": "Recruitments",
 		"costumes": "Costumes",
 		"details": "Details",
-		"back": "Back"
+		"back": "Zurück"
 	}
 }
