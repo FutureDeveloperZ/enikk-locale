@@ -19,6 +19,7 @@
 	"balance": "{{gems}} gems • {{tickets}} vouchers remaining • SSR 4% / SR 43% / R 53%",
 	"saved": "Your ten recruits were saved, but their result image could not be displayed. View them with `/inventory`.",
 	"gameReward": "<@{{userId}}> also won {{emoji}} **1 Advanced Recruit Voucher**! Check `/inventory` to use it.",
+	"gameRewardWeekend": "<@{{userId}}> also won {{emoji}} **2 Advanced Recruit Vouchers** with the weekend bonus! Check `/inventory` to use them.",
 	"recruitAgain": "Recruit 10 more",
 	"busy": "Your recruitment is still running. Wait for its results before recruiting again.",
 	"voteTitle": "Vote for Enikk!",
