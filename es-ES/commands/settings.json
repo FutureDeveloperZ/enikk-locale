@@ -4,14 +4,15 @@
   "tabs": {
     "user": "Ajustes de Usuario",
     "privacy": "Ajustes de Privacidad",
-    "account": "Ajustes de Cuenta"
+    "account": "Ajustes de Cuenta",
+    "card": "Card"
   },
   "tabSelect": {
     "placeholder": "Ajustes"
   },
   "language": {
     "title": "Lenguaje",
-    "serverDefaultHint": "Enikk utilizará por defecto el lenguaje del servidor. Algunos textos podrían aún estar en inglés.",
+    "serverDefaultHint": "Choose your preferred language for Enikk’s replies. Some text may still appear in English.",
     "current": "Tu lenguaje actual: **{{language}}**",
     "updated": "Lenguaje establecido a **{{language}}**.",
     "reset": "Reiniciar lenguaje al valor por defecto del servidor.",
