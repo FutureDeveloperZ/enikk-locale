@@ -1,0 +1,21 @@
+es-ES/common.json
+  s_23922c3502a576::t_93ba2554c4f141 9-10,39
+en-US/common.json
+  s_23922c3502a576::t_93ba2554c4f141 9-10,39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9013150c63832df00e850badca651ce236b95685",
+  "prompts": {},
+  "sessions": {
+    "s_23922c3502a576": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1cb3b-faae-79c3-9d96-ebbba1808675",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
