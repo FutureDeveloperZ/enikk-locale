@@ -6,5 +6,9 @@
 	"arenaRaidsHeader": "【 ARENA & RAIDS 】",
 	"inviteLabel": "Invite Bot",
 	"websiteLabel": "Official Website",
-	"empty": "No events are currently tracked."
+	"empty": "No events are currently tracked.",
+	"pingHeading": "New Dailies to Do!",
+	"pingReminderHeading": "Ending within 24 hours",
+	"pingReminder": "{{event}} ends {{time}}",
+	"pingMore": "And {{count}} more ending soon."
 }
