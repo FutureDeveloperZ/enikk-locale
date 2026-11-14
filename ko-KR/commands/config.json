@@ -3,12 +3,31 @@
   "description": "Configure server settings",
   "title": "Server Configuration",
   "updated": "Setting updated successfully.",
+  "overview": {
+    "description": "These settings apply to this server. Use the menu at the bottom to manage other features."
+  },
   "tabSelect": {
     "placeholder": "Choose a settings section"
   },
   "tabs": {
     "overview": "Overview",
     "announcements": "Announcements"
+  },
+  "announcement": {
+    "overviewDescription": "Choose an announcement type below to manage where it posts and customize its settings.",
+    "testDescription": "Preview the announcement in the selected channel.",
+    "pingTitle": "Role Ping",
+    "pingDescription": "Choose a role to notify with daily announcements. Clear the selection to turn pings off. Test posts preview the text without notifying anyone.",
+    "selectRole": "Select a role to ping",
+    "categoriesDescription": "Choose All to ping on every daily post. Choose specific categories to ping only when a matching event ends within 24 hours.",
+    "selectCategories": "Select reminder categories",
+    "everyoneUnavailable": "Choose a server role other than @everyone.",
+    "categories": {
+      "recruitments": "Recruitments",
+      "costumes": "Costumes & Passes",
+      "events": "Events",
+      "arenaRaids": "Arena & Raids"
+    }
   },
   "ai": {
     "title": "AI Configuration",
@@ -50,7 +69,6 @@
     "channel": "Announcement Channel",
     "unset": "Not configured",
     "selectPlaceholder": "Select an announcement channel",
-    "test": "Send Test Announcements",
     "testSuccess": "Test Daily Announcement sent successfully.",
     "testFail": "Failed to send test announcements. Check channel permissions or webhook access."
   },
@@ -60,13 +78,12 @@
     "channel": "Tower Channel",
     "unset": "Not configured",
     "selectPlaceholder": "Select a tower announcement channel",
-    "test": "Send Test Tower Overview",
     "testSuccess": "Test Tower Overview sent successfully.",
     "testFail": "Failed to send test tower overview. Check channel permissions or webhook access."
   },
   "prefix": {
     "title": "Prefix",
-    "description": "Change the bot's command prefix",
+    "description": "Type this prefix before an Enikk command in chat.",
     "current": "Current prefix: `{{prefix}}`",
     "modalTitle": "Change Prefix",
     "modalLabel": "New prefix",
@@ -76,7 +93,7 @@
   "language": {
     "title": "Language",
     "description": "Set the server's language",
-    "hint": "This sets the server language. Some text might still be in English.",
+    "hint": "Sets the default language for Enikk's replies in this server. Some text may still appear in English.",
     "current": "Current language: **{{language}}**",
     "updated": "Server language set to **{{language}}**.",
     "selectPlaceholder": "Select a language"
