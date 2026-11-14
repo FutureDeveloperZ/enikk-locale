@@ -1,0 +1,27 @@
+en-US/services/ark.json
+  s_8c9697b0b12d39::t_5739f67c1a1fb2 9-13
+en-US/commands/config.json
+  s_8c9697b0b12d39::t_876692a70797b2 17
+  s_8c9697b0b12d39::t_80c8d53afdd845 6-8,96,101
+  s_8c9697b0b12d39::t_5739f67c1a1fb2 16,18-21,23-31
+  s_8c9697b0b12d39::t_d8b743b89f6601 86
+  s_8c9697b0b12d39::t_890b791b11a5e3 22
+en-US/commands/settings.json
+  s_8c9697b0b12d39::t_c0c7f004b83d38 7-8,15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a44a4ebbdf00e6bd71bd4c18ca042105c2a18874",
+  "prompts": {},
+  "sessions": {
+    "s_8c9697b0b12d39": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d81a-6923-7b73-92d3-00ea38d26079",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
