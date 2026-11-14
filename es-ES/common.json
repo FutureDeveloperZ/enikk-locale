@@ -6,6 +6,8 @@
   "on": "Encendido",
   "off": "Apagado",
   "loading": "Cargando...",
+  "doubleRewardsWeekend": "FIN DE SEMANA DE RECOMPENSAS DOBLES",
+  "doubleRewardsWeekendDetails": "Doble probabilidad de ganar cupones de reclutamiento avanzado. Cada premio da 2.",
   "error": "Ha ocurrido un error",
   "cancel": "Cancelar",
   "confirm": "Confirmar",
