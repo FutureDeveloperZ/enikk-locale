@@ -50,7 +50,6 @@
     "channel": "Canal de Anuncios",
     "unset": "Sin configurar",
     "selectPlaceholder": "Selecciona un canal de anuncios",
-    "test": "Envía Anuncios de Prueba",
     "testSuccess": "Anuncio Diario de Prueba enviado con éxito.",
     "testFail": "Error al enviar los anuncios de prueba. Compruebe los permisos del canal o el acceso al webhook."
   },
@@ -60,7 +59,6 @@
     "channel": "Canal de Torres",
     "unset": "Sin configurar",
     "selectPlaceholder": "Selecciona un canal de anuncios de torres",
-    "test": "Enviar Resumen de Torres de Prueba",
     "testSuccess": "Resumen de Torres de Prueba enviado con éxito.",
     "testFail": "Error al enviar los anuncios de torres de prueba. Compruebe los permisos del canal o el acceso al webhook."
   },

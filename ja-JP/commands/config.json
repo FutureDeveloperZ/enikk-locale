@@ -50,7 +50,6 @@
     "channel": "Announcement Channel",
     "unset": "Not configured",
     "selectPlaceholder": "Select an announcement channel",
-    "test": "Send Test Announcements",
     "testSuccess": "Test Daily Announcement sent successfully.",
     "testFail": "Failed to send test announcements. Check channel permissions or webhook access."
   },
@@ -60,7 +59,6 @@
     "channel": "Tower Channel",
     "unset": "Not configured",
     "selectPlaceholder": "Select a tower announcement channel",
-    "test": "Send Test Tower Overview",
     "testSuccess": "Test Tower Overview sent successfully.",
     "testFail": "Failed to send test tower overview. Check channel permissions or webhook access."
   },
