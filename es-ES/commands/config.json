@@ -3,12 +3,31 @@
   "description": "Configura ajustes de servidor",
   "title": "Configuración de Servidor",
   "updated": "Ajuste actualizado con éxito.",
+  "overview": {
+    "description": "These settings apply to this server. Use the menu at the bottom to manage other features."
+  },
   "tabSelect": {
     "placeholder": "Selecciona una sección de configuración"
   },
   "tabs": {
     "overview": "Resumen",
     "announcements": "Anuncios"
+  },
+  "announcement": {
+    "overviewDescription": "Choose an announcement type below to manage where it posts and customize its settings.",
+    "testDescription": "Preview the announcement in the selected channel.",
+    "pingTitle": "Role Ping",
+    "pingDescription": "Choose a role to notify with daily announcements. Clear the selection to turn pings off. Test posts preview the text without notifying anyone.",
+    "selectRole": "Select a role to ping",
+    "categoriesDescription": "Choose All to ping on every daily post. Choose specific categories to ping only when a matching event ends within 24 hours.",
+    "selectCategories": "Select reminder categories",
+    "everyoneUnavailable": "Choose a server role other than @everyone.",
+    "categories": {
+      "recruitments": "Recruitments",
+      "costumes": "Costumes & Passes",
+      "events": "Events",
+      "arenaRaids": "Arena & Raids"
+    }
   },
   "ai": {
     "title": "Configuración de IA",
@@ -50,7 +69,6 @@
     "channel": "Canal de Anuncios",
     "unset": "Sin configurar",
     "selectPlaceholder": "Selecciona un canal de anuncios",
-    "test": "Envía Anuncios de Prueba",
     "testSuccess": "Anuncio Diario de Prueba enviado con éxito.",
     "testFail": "Error al enviar los anuncios de prueba. Compruebe los permisos del canal o el acceso al webhook."
   },
@@ -60,13 +78,12 @@
     "channel": "Canal de Torres",
     "unset": "Sin configurar",
     "selectPlaceholder": "Selecciona un canal de anuncios de torres",
-    "test": "Enviar Resumen de Torres de Prueba",
     "testSuccess": "Resumen de Torres de Prueba enviado con éxito.",
     "testFail": "Error al enviar los anuncios de torres de prueba. Compruebe los permisos del canal o el acceso al webhook."
   },
   "prefix": {
     "title": "Prefijo",
-    "description": "Establece el prefijo de comandos del bot",
+    "description": "Type this prefix before an Enikk command in chat.",
     "current": "Prefijo actual: `{{prefix}}`",
     "modalTitle": "Cambiar Prefijo",
     "modalLabel": "Nuevo Prefijo",
@@ -76,7 +93,7 @@
   "language": {
     "title": "Lenguaje",
     "description": "Establece el lenguaje del servidor",
-    "hint": "Esto cambia el lenguaje del servidor. Algunos textos podrían aún estar en inglés.",
+    "hint": "Sets the default language for Enikk's replies in this server. Some text may still appear in English.",
     "current": "Lenguaje actual: **{{language}}**",
     "updated": "Lenguaje de servidor establecido a **{{language}}**.",
     "selectPlaceholder": "Selecciona un lenguaje"
