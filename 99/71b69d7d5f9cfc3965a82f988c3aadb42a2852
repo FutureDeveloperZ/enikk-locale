@@ -1,0 +1,19 @@
+en-US/commands/config.json
+  s_8c9697b0b12d39::t_a59d04da07e9b1 34,37-39,41-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9971b69d7d5f9cfc3965a82f988c3aadb42a2852",
+  "prompts": {},
+  "sessions": {
+    "s_8c9697b0b12d39": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d81a-6923-7b73-92d3-00ea38d26079",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
